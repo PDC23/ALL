@@ -1,5 +1,43 @@
 #EXTM3U
 
+TUDN
+
+#EXTINF:-1 group-title="LATINO" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/tudn.us.m3u8
+
+#EXTINF:-1 group-title="LATINO 2" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/dynodonfb7@yahoo.com/117805/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO 2" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/dynodonfb7@yahoo.com/117805/livetv.epg/tudn.us.m3u8
+
+#EXTINF:-1 group-title="LATINO 3" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO 3" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/greg.g99@gmail.com/953209/livetv.epg/tudn.us.m3u8
+
+#EXTINF:-1 group-title="LATINO 4" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO 4" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/lilycampos103@gmail.com/625206/livetv.epg/tudn.us.m3u8
+
+#EXTINF:-1 group-title="LATINO 5" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO 5" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/carlos.daccarett@me.com/HereNow9/livetv.epg/tudn.us.m3u8
+
+#EXTINF:-1 group-title="LATINO 6" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO 6" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/kjvoorhees@aol.com/527856/livetv.epg/tudn.us.m3u8
+
+#EXTINF:-1 group-title="LATINO 7" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
+https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/tudn.mx.m3u8
+#EXTINF:-1 group-title="LATINO 7" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
+https://tvnow.best/api/stream/ajisonm@gmail.com/68852/livetv.epg/tudn.us.m3u8
+
+
 #EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/ua14wawtuzuw96dhfnktr/estelar.png?rlkey=ck7nl2l89chx3gtksetfgvaja&dl=0", Cine Estelar ⁽ᴴᴰ⁾
 http://streamgo.vip:8008/etelio@79/enVGNgzc3WTD/318598
 #EXTINF:-1 group-title="✅ 24/7 Cine", tvg-logo="https://dl.dropboxusercontent.com/scl/fi/wall34fkzo2kli9idik09/dc_comics.png?rlkey=54sdogxmiraiabctshdf20t53&dl=0", Cinema DC Comics ⁽ᴴᴰ⁾
