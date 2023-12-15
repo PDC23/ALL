@@ -9,6 +9,10 @@ TUDN
 
 #EXTINF:-1 group-title="LATINO" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/tudn.mx.m3u8
+
+#EXTINF:-1 group-title="LATINO" tvg-id="tudn.mx" tvg-name="tudn.mx" tvg-logo="https://media.tv4.live/tudn.mx.png",TUDN MX OK
+http://tvnow.best/api/stream/dynodonfb7@yahoo.com/117805/livetv.epg/tudn.mx.m3u8
+
 #EXTINF:-1 group-title="LATINO" tvg-id="tudn.us" tvg-name="tudn.us" tvg-logo="https://media.tv4.live/tudn.us.png",TUDN US
 https://tvnow.best/api/stream/billypetty22@gmail.com/413397/livetv.epg/tudn.us.m3u8
 
