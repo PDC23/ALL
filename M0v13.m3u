@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Plan_en_familia-915462795-large.jpg",Plan en Familia
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/The_Night_House-565731104-large.jpg",La Casa Obscura
 https://archive.org/download/l-4.-c-454-0b-5cur-4/L4.C454_0b5cur4.mkv
 
