@@ -1,8 +1,10 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://mx.web.img3.acsta.net/pictures/13/12/03/17/11/492304.jpg",3096 Días
+https://ia801201.us.archive.org/23/items/3096-d-145/3096%20d145.mp4
 
-
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/original/sqm9QlWqI3VoT8BowNqE3GfzJ89.jpg",Lo que ellos quieren
+https://ia601204.us.archive.org/32/items/3ll-05-qu-13r-3n/3ll05_qu13r3n.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Plan_en_familia-915462795-large.jpg",Plan en Familia
 https://ia904602.us.archive.org/32/items/pl-4n-f-4m-1/Pl4n_F4m1.mp4
