@@ -1,7 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Plan_en_familia-915462795-large.jpg",Plan en Familia
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://mx.web.img3.acsta.net/pictures/13/12/03/17/11/492304.jpg",3096 Días
 
+
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Plan_en_familia-915462795-large.jpg",Plan en Familia
+https://ia904602.us.archive.org/32/items/pl-4n-f-4m-1/Pl4n_F4m1.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/The_Night_House-565731104-large.jpg",La Casa Obscura
 https://archive.org/download/l-4.-c-454-0b-5cur-4/L4.C454_0b5cur4.mkv
