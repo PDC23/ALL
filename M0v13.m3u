@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://i.ytimg.com/vi/NjMJwewmcfA/hqdefault.jpg",Napoleón
+https://ia601300.us.archive.org/28/items/n-p-0l-30n/N%40_p0l30n.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/44447-615394-20231101065410.jpg",Venganza Silenciosa
+https://ia903102.us.archive.org/18/items/s-1l-3-nt-n-1/S1l3_nt%20N1.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://mx.web.img3.acsta.net/pictures/13/12/03/17/11/492304.jpg",3096 Días
 https://ia801201.us.archive.org/23/items/3096-d-145/3096%20d145.mp4
 
