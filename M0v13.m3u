@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://pics.filmaffinity.com/Madame_Web-392004109-large.jpg",Madame Web
+https://ia600204.us.archive.org/19/items/m-4dm-w-3b/M4dm_w3b.mp4
+
+
 #EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://pics.filmaffinity.com/Bee_Movie-441375499-large.jpg",BEE
 https://ia600202.us.archive.org/7/items/b-3-3/B3_3.mp4
 
