@@ -1,5 +1,13 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/super_mario_bros/posters/02.jpg",Mario Bros
+https://ia800205.us.archive.org/29/items/mr-br-055/Mr_br055.mp4
+
+#EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/14/35/3349802.jpg",DUNE
+https://ia600306.us.archive.org/6/items/d_uN3/d_uN3.mp4
+
+
 #EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://pics.filmaffinity.com/Madame_Web-392004109-large.jpg",Madame Web
 https://ia600204.us.archive.org/19/items/m-4dm-w-3b/M4dm_w3b.mp4
 
