@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|DISNEY|" tvg-logo="https://m.media-amazon.com/images/I/81n+81eQRuL._AC_UF894,1000_QL80_.jpg",Ratatouille
+https://ia600308.us.archive.org/34/items/r4_t4-t0/r4_t4-t0.mp4
 
 #EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/super_mario_bros/posters/02.jpg",Mario Bros
 https://ia800205.us.archive.org/29/items/mr-br-055/Mr_br055.mp4
