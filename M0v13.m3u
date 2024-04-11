@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/pictures/21/08/25/14/35/3349802.jpg",El Espírutu
+https://ia600307.us.archive.org/23/items/3l-5p-1r-1t-u/3l_5p1r1tU.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/pictures/23/12/20/17/49/3528056.jpg",Kung Fu Panda 4
 https://ia600305.us.archive.org/25/items/kun-f/Kun-F.mp4
 
