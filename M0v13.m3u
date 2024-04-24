@@ -1,5 +1,14 @@
 #EXTM3U
 
+
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Justice_League-Crisis_On_Two_Earths.jpg",La Liga de la Justicia: Crisis en las Tierras Infinitas 2
+https://ia600307.us.archive.org/8/items/l-1g-4-ju-5-2/L1g4_Ju5-2.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/44965-527700-20231227123606.jpg",El Roomie
+https://ia600301.us.archive.org/26/items/3l-ro-0m-13/3l_ro0m13.mp4
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://culturaparaarmar.com.ar/wp-content/uploads/2024/03/Rescate-imposible-poster.jpg",Rescate Imposible
 https://ia800303.us.archive.org/2/items/r35_1mp0/r35_1mp0.mp4
 
