@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/43529-480414-20230901020632.jpg",Muti: Rituales mortales
+https://ia600302.us.archive.org/2/items/rit-m-0rt-4/Rit_m0rt4.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/pictures/24/03/12/17/06/1995303.jpg",La primera profecía
 https://ia600308.us.archive.org/6/items/1r-4-pr-0f-3514/1r4_pr0f3514.mp4
 
