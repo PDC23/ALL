@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img2.acsta.net/pictures/24/02/27/16/28/3250275.jpg",Godzilla y Kong: El nuevo imperio
+https://ia902208.us.archive.org/12/items/g-0d-z-k-0ng/G0dZ_K0ng.mp4
+
+
+
 #EXTINF:-1 group-title="|SERIE|" tvg-logo="https://pics.filmaffinity.com/Los_secretos_de_los_pulpos_Miniserie_de_TV-553280581-large.jpg",Los secretos de los pulpos T1-E1
 https://ia800303.us.archive.org/27/items/pu1_p05-1/pu1_p05-1.ia.mp4
 
