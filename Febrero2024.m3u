@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MEXICO - ADN 40" tvg-logo="http://www.ictv19.xyz/logo/ADN40.png" group-title="NACIONALES",MEXICO - LAS ESTRELLAS OK
+https://channel01-notusa.akamaized.net/hls/live/2022749-b/event01/index.m3u8?hdnea=exp=1664336881~acl=/*~hmac=1ec2d2fbd8abe6748c87141ee89bc75436f4eec73a5811fe4190ce6cc435f208
+
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MEXICO - ADN 40" tvg-logo="http://www.ictv19.xyz/logo/ADN40.png" group-title="NACIONALES",MEXICO - ADN 40
 http://tv.soccerplus.link:8000/julia35a/anticona34/22459
 #EXTINF:-1 tvg-id="ADN40.mx" tvg-name="MEXICO - ADN 40 HD" tvg-logo="http://www.iptbest.xyz/logo/ADN40.png" group-title="NACIONALES",MEXICO - ADN 40 HD
