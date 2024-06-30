@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Nosotros-208891193-large.jpg",Nosotros
+https://ia800400.us.archive.org/8/items/n_050tr05/n_050tr05.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/I_S_S-862131931-large.jpg",I.S.S
+https://ia904602.us.archive.org/18/items/1-5-5_202406/1_5_5.ia.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://socialgeek.co/wp-content/uploads/2024/03/image-4.png",Intensamente 2
 https://ia600405.us.archive.org/34/items/1nt-3-ns-4-m/1nt3_ns4M.mp4
 
