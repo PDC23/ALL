@@ -1,5 +1,5 @@
 #EXTM3U	
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"	
+
 #EXTINF:-1 xui-id="2090917" tvg-id="" tvg-name="24/7 :CINE ACCION" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION	
 https://sdmx.vip:443/play/ujGkSfZ4KuNcenvZ_dfdG-fZbVb7wpOcac55hZzlZFkw32Ffn8TnagIeQEsXnnwe	
 #EXTINF:-1 xui-id="2090918" tvg-id="" tvg-name="24/7 :CINE ACCION SAGAS" tvg-logo="http://ceoapps.org/logos/cinema2.png" group-title="TV | 24/7 Peliculas",24/7 :CINE ACCION SAGAS	
