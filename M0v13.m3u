@@ -1,6 +1,9 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Un_lugar_tranquilo_Daia_1-658213960-large.jpg",Un Lugar En Silencio
+https://ia600100.us.archive.org/10/items/1-lug-3n-51-d-14-1/1Lug_3n51-D14%201.mp4
+
 EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w185//8wvEUjgtlKbrTJQG2xtzA7C4naE.jpg",Mi pobre diablillo 1
 https://ia800601.us.archive.org/23/items/pr-0bl-3m-ch-1/pr0bl-3m-ch1%20.mp4
 
