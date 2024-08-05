@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Un_lugar_tranquilo_Daia_1-658213960-large.jpg",Un Lugar En Silencio
-https://ia600100.us.archive.org/10/items/1-lug-3n-51-d-14-1/1Lug_3n51-D14%201.mp4
-
 EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w185//8wvEUjgtlKbrTJQG2xtzA7C4naE.jpg",Mi pobre diablillo 1
 https://ia800601.us.archive.org/23/items/pr-0bl-3m-ch-1/pr0bl-3m-ch1%20.mp4
 
@@ -12,6 +9,8 @@ https://ia601808.us.archive.org/2/items/pr-0bl-3m-ch-1-2/Pr0bl3m_Ch1%202%20.mp4
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w500/tFidMbzYXZEmmn9RdJLkinmL0tB.jpg",Mi pobre diablillo 3
 https://ia800509.us.archive.org/29/items/pr-0-blem-ch-1-3/pr0-blem_ch1%203.mp4
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Un_lugar_tranquilo_Daia_1-658213960-large.jpg",Un Lugar En Silencio
+https://ia600100.us.archive.org/10/items/1-lug-3n-51-d-14-1/1Lug_3n51-D14%201.mp4
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://cineplex.com.co/wp-content/uploads/2024/03/LA-MELODIA-DEL-DIABLO_poster_web_cpxcol.jpg",LA LEYENDA DEL FLAUTISTA DE HAMLET
