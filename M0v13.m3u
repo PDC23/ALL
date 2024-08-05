@@ -1,9 +1,9 @@
 #EXTM3U
 
-EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w185//8wvEUjgtlKbrTJQG2xtzA7C4naE.jpg",Mi pobre diablillo 1
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w185//8wvEUjgtlKbrTJQG2xtzA7C4naE.jpg",Mi pobre diablillo 1
 https://ia800601.us.archive.org/23/items/pr-0bl-3m-ch-1/pr0bl-3m-ch1%20.mp4
 
-EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/I/81QQw5Kj6nL._AC_UF894,1000_QL80_.jpg",Mi pobre diablillo 2
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/I/81QQw5Kj6nL._AC_UF894,1000_QL80_.jpg",Mi pobre diablillo 2
 https://ia601808.us.archive.org/2/items/pr-0bl-3m-ch-1-2/Pr0bl3m_Ch1%202%20.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w500/tFidMbzYXZEmmn9RdJLkinmL0tB.jpg",Mi pobre diablillo 3
@@ -21,11 +21,11 @@ https://ia803403.us.archive.org/20/items/k-1-nd-3r/K1Nd3r.mp4
 https://ia801902.us.archive.org/0/items/d-34d-w-0l/D34d_p00l.mp4
 
 
-EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/43378-144602-20230821063824.jpg",Culto al Diablo
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/43378-144602-20230821063824.jpg",Culto al Diablo
 https://ia903403.us.archive.org/27/items/cu-lt-0/Cu_Lt0.mp4
 
 
-EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45515-606465-20240320095056.jpg",Ghostbusters: Apocalipsis Fantasma
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45515-606465-20240320095056.jpg",Ghostbusters: Apocalipsis Fantasma
 https://ia600507.us.archive.org/3/items/g-05t/G05t.mp4
 
 
