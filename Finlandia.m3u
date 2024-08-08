@@ -3,8 +3,7 @@
 
 *TV MEXICO*
 
-#EXTINF:-1 xui-id="76427" tvg-id="amastv.mx" tvg-name="M | A+" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV | Mexico",M | A+	
-https://sdmx.vip:443/play/ujGkSfZ4KuNcenvZ_dfdG1sOPdC0clf65M0FR3E-0PM	
+
 #EXTINF:-1 xui-id="76504" tvg-id="amastv.mx" tvg-name="M | A+ HD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV | Mexico",M | A+ HD	
 https://sdmx.vip:443/play/ujGkSfZ4KuNcenvZ_dfdGz7cQC9bjiGkWebs7R1MjPg	
 #EXTINF:-1 xui-id="154117" tvg-id="amastv.mx" tvg-name="M | A+ FHD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV | Mexico",M | A+ FHD	
