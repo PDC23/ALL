@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/43378-144602-20230821063824.jpg",Culto al Diablo
+https://ia903403.us.archive.org/27/items/cu-lt-0/Cu_Lt0.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45515-606465-20240320095056.jpg",Ghostbusters: Apocalipsis Fantasma
+https://ia600507.us.archive.org/3/items/g-05t/G05t.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/the_land_before_time-777659012-large.jpg",Pie Pequeño
 https://ia600801.us.archive.org/27/items/p-13-p-3qu-3n-0/P13_p3qu3n%CC%830.mp4
 
@@ -25,12 +31,6 @@ https://ia803403.us.archive.org/20/items/k-1-nd-3r/K1Nd3r.mp4
 https://ia801902.us.archive.org/0/items/d-34d-w-0l/D34d_p00l.mp4
 
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/43378-144602-20230821063824.jpg",Culto al Diablo
-https://ia903403.us.archive.org/27/items/cu-lt-0/Cu_Lt0.mp4
-
-
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static.cinepolis.com/resources/mx/movies/posters/414x603/45515-606465-20240320095056.jpg",Ghostbusters: Apocalipsis Fantasma
-https://ia600507.us.archive.org/3/items/g-05t/G05t.mp4
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://assets.biggerpicture.ai/assets/HO-1600/eventmaster/669_4.png",Tornados
