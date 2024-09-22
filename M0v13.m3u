@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.cine.com/peliculas4/105979/105979_0.jpg",RUMBLE
+
+
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Spawn-161876804-large.jpg",SPAWN
 https://ia600100.us.archive.org/14/items/5p-4-w/5p4_w.mp4
 
