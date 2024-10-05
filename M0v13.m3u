@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/joker_folie_a_deux-920647444-large.jpg",JOKER 2
+https://ia600102.us.archive.org/19/items/j-0-k-3r-2/J0_k3r2.mp4
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/23/06/23/09/41/4842716.jpg",Sailor Moon Parte 1
 https://ia800801.us.archive.org/6/items/s-41l-m-00n-p-1/S41l_M00n_p1.mp4
 
