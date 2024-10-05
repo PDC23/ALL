@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Hacia_la_libertad-320303056-large.jpg",Hacia la libertad
+https://ia800601.us.archive.org/11/items/h4c14_l1b3rt3D/h4c14_l1b3rt3D.mp4
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/joker_folie_a_deux-920647444-large.jpg",JOKER 2
 https://ia600102.us.archive.org/19/items/j-0-k-3r-2/J0_k3r2.mp4
 
