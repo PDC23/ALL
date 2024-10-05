@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/wild_robot/posters/02.jpg",Robot Salvaje
+https://ia800601.us.archive.org/11/items/h4c14_l1b3rt3D/h4c14_l1b3rt3D.mp4
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://img-tomatazos.buscafs.com/453240/453240.jpg",BEETLEJUICE 2
 https://acortar.link/ThUFoZ
 
