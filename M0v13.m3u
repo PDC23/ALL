@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Mickey_17-243756865-large.jpg",Mickey 17
+
 
 #EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://pics.filmaffinity.com/Estado_elaectrico-739193631-large.jpg",Estado Eléctrico
 https://ia601308.us.archive.org/22/items/35tad-0-el-3c/35tad0_el3c.mp4
