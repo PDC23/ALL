@@ -1,5 +1,8 @@
 #EXTM3U
 
+EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Ash-816951815-large.jpg",ASH
+https://ia601407.us.archive.org/24/items/45h_20250424/45h.mp4
+
 EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/original/mi7WiadKXdF8bkMqiuVGMaoSc50.jpg",Misión suicida
 https://ia600709.us.archive.org/18/items/m-15i-0n-5u-1/M15i0n_5u1.mp4
 
