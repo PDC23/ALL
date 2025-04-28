@@ -1,4 +1,5 @@
 #EXTM3U
+
 #EXTINF:-1 xui-id="2234662" tvg-id="" tvg-name="US open | ESPN Deportes Vivo" tvg-logo="https://th.bing.com/th?id=OSB.k5du4jKq1J7QoN1gZA84Rg--.png&w=50&h=50&c=6&qlt=90&o=6&cb=13&dpr=1.3&pid=BingSports" group-title="TV | PPV Tenis",US open | ESPN Deportes Vivo
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJ0Gv-0sPJA8_D1XM8HvbMQ
 #EXTINF:-1 xui-id="2144855" tvg-id="" tvg-name="D | DAZN 1" tvg-logo="http://ceoapps.org/logos/dazn.png" group-title="TV | Dazn Sport Channels",D | DAZN 1
@@ -1160,40 +1161,8 @@ http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPhwyGALDSzyv8p72RSgcc0
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmO75qvYHTOjZPzUB13_XBZ0
 #EXTINF:-1 xui-id="219402" tvg-id="" tvg-name="UEFA | MOVISTAR LIGA DE CAMPEONES" tvg-logo="http://ceoapps.org/logos/uefa.png" group-title="TV | UEFA Champions League",UEFA | MOVISTAR LIGA DE CAMPEONES
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmN3nhQc0RUGJdwQuWQg-b8E
-#EXTINF:-1 xui-id="2091016" tvg-id="" tvg-name="24/7 | Los Simpsons Casitas del Horror" tvg-logo="http://atlantis-mx.com/logos/simpsonscasita.png" group-title="TV | 24/7 Series",24/7 | Los Simpsons Casitas del Horror
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJKaiambq_enm-plO09uG8I
-#EXTINF:-1 xui-id="2091009" tvg-id="" tvg-name="24/7 | La Casa de Papel" tvg-logo="http://atlantis-mx.com/logos/casapapel24.png" group-title="TV | 24/7 Series",24/7 | La Casa de Papel
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMz6_1vZ_SMoGbkvWTo1lQc
-#EXTINF:-1 xui-id="2091006" tvg-id="" tvg-name="24/7 | Futurama" tvg-logo="http://atlantis-mx.com/logos/futurama24.png" group-title="TV | 24/7 Series",24/7 | Futurama
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOC1jx8GTMzaJUY7pLTArWk
-#EXTINF:-1 xui-id="2090916" tvg-id="" tvg-name="24/7 Timon y Pumbaa" tvg-logo="http://ceoapps.org/logos/timonypumba.png" group-title="TV | 24/7 Infantil",24/7 Timon y Pumbaa
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJEL4ZeNVCGmDhyyPBmOAms
-#EXTINF:-1 xui-id="2090914" tvg-id="" tvg-name="24/7 Scooby Doo" tvg-logo="http://ceoapps.org/logos/scoobydoo.png" group-title="TV | 24/7 Infantil",24/7 Scooby Doo
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNQO9mfN66vaFuO2-GbhX1o
-#EXTINF:-1 xui-id="2090913" tvg-id="" tvg-name="24/7 Pocoyo" tvg-logo="http://ceoapps.org/logos/pocoyo.png" group-title="TV | 24/7 Infantil",24/7 Pocoyo
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMw0bBKseq8OCI-CGjsB1Xc
-#EXTINF:-1 xui-id="2090912" tvg-id="" tvg-name="24/7 Paw Patroll" tvg-logo="http://ceoapps.org/logos/pawpatrol.png" group-title="TV | 24/7 Infantil",24/7 Paw Patroll
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmM_Fb9UkDrKX9-1znfEh3Gk
-#EXTINF:-1 xui-id="2090910" tvg-id="" tvg-name="24/7 Los Muppet Babys" tvg-logo="http://ceoapps.org/logos/muppetsbaby.png" group-title="TV | 24/7 Infantil",24/7 Los Muppet Babys
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmL4YJjh3dhqNs8DFnHbR56g
-#EXTINF:-1 xui-id="2090909" tvg-id="" tvg-name="24/7 Los Padrinos Magicos" tvg-logo="http://ceoapps.org/logos/padrinosmagicos.png" group-title="TV | 24/7 Infantil",24/7 Los Padrinos Magicos
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNtf1Ul5TuWZpTEAR7B5vRY
-#EXTINF:-1 xui-id="2090908" tvg-id="" tvg-name="24/7 Los Castores Cascarrabias" tvg-logo="http://ceoapps.org/logos/castorescascarrabias.png" group-title="TV | 24/7 Infantil",24/7 Los Castores Cascarrabias
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKwLsBRslM5EKXZa9QeJ70g
-#EXTINF:-1 xui-id="2090905" tvg-id="" tvg-name="24/7 Hey Arnold" tvg-logo="http://ceoapps.org/logos/heyarnold.png" group-title="TV | 24/7 Infantil",24/7 Hey Arnold
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLGe1x4YJhpDnf7GQbLwkDg
-#EXTINF:-1 xui-id="2090904" tvg-id="" tvg-name="24/7 Hannah Montana" tvg-logo="http://ceoapps.org/logos/hannamontana.png" group-title="TV | 24/7 Infantil",24/7 Hannah Montana
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCshPcfjovWHAm-qzIR9T8M
-#EXTINF:-1 xui-id="2090881" tvg-id="" tvg-name="24/7 | El Chavo Animado" tvg-logo="http://ceoapps.org/logos/elchavoanimado2.png" group-title="TV | 24/7 Infantil",24/7 | El Chavo Animado
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDy_mJuYjcisdQ5W1u3ljdg
-#EXTINF:-1 xui-id="2090880" tvg-id="" tvg-name="24/7 | Dora la Exploradora" tvg-logo="http://ceoapps.org/logos/dora.png" group-title="TV | 24/7 Infantil",24/7 | Dora la Exploradora
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMEkWxBsmu5_T0tx0wBOzsU
-#EXTINF:-1 xui-id="2090877" tvg-id="" tvg-name="24/7 | Coraje El Perro Cobarde" tvg-logo="http://ceoapps.org/logos/corajeelperrocobarde.png" group-title="TV | 24/7 Infantil",24/7 | Coraje El Perro Cobarde
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJkA-M7v_Vx-sbl8oKA3Wtw
-#EXTINF:-1 xui-id="2090872" tvg-id="" tvg-name="24/7 | Bleyblade" tvg-logo="http://ceoapps.org/logos/blaybley.png" group-title="TV | 24/7 Infantil",24/7 | Bleyblade
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGV9bSjW-a8sRanmHjh7chk
-#EXTINF:-1 xui-id="2090990" tvg-id="" tvg-name="24/7 Los Supersonicos" tvg-logo="http://ceoapps.org/logos/supersonicos.png" group-title="TV | 24/7 Retro",24/7 Los Supersonicos
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLejqCbMpr-3N9P9LdSN4IM
+
+
 #EXTINF:-1 xui-id="2169945" tvg-id="" tvg-name="ES | EITB 2" tvg-logo="https://media.eitb.eus/multimedia/images/2022/01/03/2873444/20220103124520_logostreamingetb2_foto300x168.jpg" group-title="TV | España",ES | EITB 2
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPybnUU9Dnk97r3evHwxFCo
 #EXTINF:-1 xui-id="2100761" tvg-id="" tvg-name="ES: TV3 FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSP1tmODGwevuWgXrYn849gtZaagmH2FzLlAw&s" group-title="TV | España",ES: TV3 FHD
@@ -2032,28 +2001,28 @@ http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJTxTNp1HDyfWKBveK1Y184
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGaPln852N36AtByN0ZJdYc
 #EXTINF:-1 xui-id="2151028" tvg-id="" tvg-name="Telemundo 47 Houston" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/1200px-Telemundo_logo_2018.svg.png" group-title="TV | USA Latino",Telemundo 47 Houston
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmL7h2kIe6958TgHVOLrXzBY
-#EXTINF:-1 xui-id="2151280" tvg-id="" tvg-name="24/7: Superman Animated" tvg-logo="" group-title="TV | 24/7 English",24/7: Superman Animated
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLNvUntrKIOQ3Eh9OJHDs_o
-#EXTINF:-1 xui-id="2151286" tvg-id="" tvg-name="24/7:  La Leyenda del Tesoro Perdido" tvg-logo="" group-title="TV | 24/7 English",24/7:  La Leyenda del Tesoro Perdido
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIt5JP0689Yzz9AldQN5wf8
-#EXTINF:-1 xui-id="2151307" tvg-id="" tvg-name="24/7: Halloween" tvg-logo="" group-title="TV | 24/7 English",24/7: Halloween
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmM7NBi-L4rpP2Ag4VuQqv8w
-#EXTINF:-1 xui-id="2151332" tvg-id="" tvg-name="24/7: Mission Impossible" tvg-logo="" group-title="TV | 24/7 English",24/7: Mission Impossible
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKqJuht-8pJcV_Zd-iJH0lA
-#EXTINF:-1 xui-id="2151354" tvg-id="" tvg-name="24/7: Hercules Animated" tvg-logo="http://ceoapps.org/logos/hercules.png" group-title="TV | 24/7 English",24/7: Hercules Animated
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCGc-f0xdSxQ_vPyl3evxO8
-#EXTINF:-1 xui-id="2151356" tvg-id="" tvg-name="24/7: South Park" tvg-logo="" group-title="TV | 24/7 English",24/7: South Park
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLJAtv0sECJIXwz0V3hfxCQ
-#EXTINF:-1 xui-id="2151380" tvg-id="" tvg-name="24/7: Adventure Time" tvg-logo="" group-title="TV | 24/7 English",24/7: Adventure Time
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNdxz2iNL5G_TNHXIG1Y_oo
-#EXTINF:-1 xui-id="2151382" tvg-id="" tvg-name="24/7: King Rider" tvg-logo="" group-title="TV | 24/7 English",24/7: King Rider
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHNZqwuBy7zrMgznF5EuBz0
-#EXTINF:-1 xui-id="2151385" tvg-id="" tvg-name="24/7: Tom and Jerry in New York" tvg-logo="" group-title="TV | 24/7 English",24/7: Tom and Jerry in New York
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBkillFo2vSBb9ScklBfcWI
-#EXTINF:-1 xui-id="2151387" tvg-id="" tvg-name="24/7: Game of Thrones" tvg-logo="http://ceoapps.org/logos/gameofthrones.png" group-title="TV | 24/7 English",24/7: Game of Thrones
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHS8OzcoMjg4zI-1_w1_UFc
-#EXTINF:-1 xui-id="2151390" tvg-id="" tvg-name="24/7: Pokemon" tvg-logo="http://ceoapps.org/logos/pokemon.png" group-title="TV | 24/7 English",24/7: Pokemon
-http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJOAp4GKc6W3efGWIBU1m1c
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 xui-id="2151869" tvg-id="abcwisn.us" tvg-name="US | ABC HD Milwaukee" tvg-logo="http://ceoapps.org/logos/abcmilwauke.png" group-title="TV | USA Locals",US | ABC HD Milwaukee
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPFq2kRbkuaMiFGMNXxCKMA
 #EXTINF:-1 xui-id="2151870" tvg-id="" tvg-name="ABC seattle | KOMO 4" tvg-logo="http://ceoapps.org/logos/abckomo4.png" group-title="TV | USA Sports",ABC seattle | KOMO 4
