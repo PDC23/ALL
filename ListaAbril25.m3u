@@ -16,7 +16,7 @@ http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNzlMoedUMi4f9NcWoDb4Yk
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFk_-RVdhSeJS-e3YDGlfio
 #EXTINF:-1 xui-id="2100542" tvg-id="la2.es" tvg-name="ES: La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/La_2_HD.png/220px-La_2_HD.png" group-title="TV | España",ES: La 2
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGycEC-X-xqG_VwQDv6acPo
-#EXTINF:-1 xui-id="2100545" tvg-id="antena3.es" tvg-name="ES: Antena 3 SD" tvg-logo="https://fotografias.antena3.com/clipping/cmsimages02/2025/01/27/62AFA8B2-2481-4117-9FE5-F5041DBD43A4/antena3-logo-principal_96.jpg?crop=2720,1530,x0,y0&width=1200&height=675&optimize=low&format=jpg" group-title="TV | España",ES: Antena 3 SD
+#EXTINF:-1 xui-id="2100545" tvg-id="antena3.es" tvg-name="ES: Antena 3 SD" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2018/02/22/6339206B-7A24-4601-B30D-501750FDFF7B//720x540.jpg" group-title="TV | España",ES: Antena 3 SD
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmF12j_oB5wVjaLHh_Y347ms
 #EXTINF:-1 xui-id="2100548" tvg-id="" tvg-name="ES: Antena 3 Internacional SD" tvg-logo="https://fotografias.antena3internacional.com/clipping/cmsimages02/2018/05/28/5ED7F501-9E1B-4AA4-A8FB-D19145491198/58.jpg" group-title="TV | España",ES: Antena 3 Internacional SD
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHbXfP6z_EqhO1q5zDAb1_s
@@ -38,7 +38,7 @@ http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEUS86Fl6zVA0w1Nv1eyF8k
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAsnbbxQMKWQh0l19P2LwN0
 #EXTINF:-1 xui-id="2100568" tvg-id="" tvg-name="ES 7 TeleValencia" tvg-logo="https://pbs.twimg.com/profile_images/1876660632478437376/rbEqYeqC_400x400.jpg" group-title="TV | España",ES 7 TeleValencia
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGmTDy_8f5r_AbQYdHhsoQg
-#EXTINF:-1 xui-id="2100570" tvg-id="" tvg-name="ES: MEGA" tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_51.jpg?crop=1920,960,x0,y62&width=1200&height=600&optimize=low&format=jpg" group-title="TV | España",ES: MEGA
+#EXTINF:-1 xui-id="2100570" tvg-id="" tvg-name="ES: MEGA" tvg-logo="https://fotografias-mega.atresmedia.com/clipping/cmsimages01/2022/07/06/F8E798E8-EDE7-413A-9D2E-AA779E299B2E/mega_51.jpg?crop=1920,960,x0,y62&width=1200&height=600&optimize=low&format.jpg" group-title="TV | España",ES: MEGA
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOLrOcK0sjju7f1-xGLe8es
 #EXTINF:-1 xui-id="2100573" tvg-id="" tvg-name="ES: Divinity" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmxZQfxnw5wyGxgJeFUTGQGxNX4hTUSal3gg&s" group-title="TV | España",ES: Divinity
 http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFODX0HJ-8bzwVTyaGD-J0Q
