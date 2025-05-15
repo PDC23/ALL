@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="|PELÍCULA|" tvg-logo="https://mai.maxmax.live/posters/1601174563192.jpg",Scooby-Doo 2
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIk2dIRxjIi-C7hUgkiaAk5lnfmpq69k6svO6KP3u3FKj#.mkv
+
+#EXTINF:-1 group-title="|PELÍCULA|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/3aDWCRXLYOCuxjrjiPfLd79tcI6.jpg",Sonic 3
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIqbMbkY6nRXgjexvWlg8zatIyUoL6VAk8K_AIGYhRSSI#.mp4
+
+
+#EXTINF:-1 group-title="|PELÍCULA|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/vK1sK1B3WglfgVWPn6Xj4nNsw1q.jpg",Gladiador II
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIjZHrXO5ka0A1nSfVE1q9C1lgkHPO7bEKZHbWqpbLbxo#.mp4
 
 #EXTINF:-1 group-title="|PELÍCULA|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/super_mario_bros/posters/02.jpg",Mario Bros
 https://ia800205.us.archive.org/29/items/mr-br-055/Mr_br055.mp4
