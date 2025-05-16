@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|PELÍCULA|" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg",Sing 2: ¡Ven y canta de nuevo! 4K UHD
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIrDvfKEh2QNU4in28Au6ZARqz9ybpJxNbcnTr5NIy4Tt#.mkv
 
 #EXTINF:-1 group-title="|PELÍCULA|" tvg-logo="https://mai.maxmax.live/posters/1601174563192.jpg",Scooby-Doo 2
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIk2dIRxjIi-C7hUgkiaAk5lnfmpq69k6svO6KP3u3FKj#.mkv
