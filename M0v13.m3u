@@ -1,13 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyM2Y5YWMtZTUzZC00ODBiLTg1N2QtNGMzOTNkOTVjMDY4XkEyXkFqcGc@._V1_.jpg",Lilo y Stitch
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIteBT8NLaBr5TjcQvZ9g3Tm6Dk4iuVz7DF81T7Hi1qiP#.mkv
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Ash-816951815-large.jpg",ASH
 https://ia601407.us.archive.org/24/items/45h_20250424/45h.mp4
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/original/mi7WiadKXdF8bkMqiuVGMaoSc50.jpg",Misión suicida
+EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/original/mi7WiadKXdF8bkMqiuVGMaoSc50.jpg",Misión suicida
 https://ia600709.us.archive.org/18/items/m-15i-0n-5u-1/M15i0n_5u1.mp4
 
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://imagenes.20minutos.es/files/image_250_375/uploads/imagenes/2025/02/10/el-abismo-secreto.jpeg",El Abismo Secreto
+#EXTINF:-1 group-title="|Apple TV|" tvg-logo="https://imagenes.20minutos.es/files/image_250_375/uploads/imagenes/2025/02/10/el-abismo-secreto.jpeg",El Abismo Secreto
 https://ia800705.us.archive.org/35/items/3l-4b-15m-0-53cr-3t/3l_4b15m0%2753cr3t.ia.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/img/0e/67/0e67e52cdc128c5f5076f1434eea2b5b.jpg",Sin Oxígeno
