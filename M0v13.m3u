@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+EXTINF:-1 group-title="|CINE|" tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/1/e/a/0/1ea0241acc804697827af3195f09eae6.jpg",Minecraft
+https://ia800703.us.archive.org/24/items/m1n3-cr4fT/m1n3-cr4fT.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyM2Y5YWMtZTUzZC00ODBiLTg1N2QtNGMzOTNkOTVjMDY4XkEyXkFqcGc@._V1_.jpg",Lilo y Stitch
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIrSQU539lJTg4W8LXiYkVTTm95RtP2TvDGDve_GVr_TB#.mp4
 
