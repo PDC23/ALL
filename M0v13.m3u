@@ -1,12 +1,17 @@
 #EXTM3U
 
+
+EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.albacinema.com.gt/public/uploads/cartelera/until.jpg",Until Dawn: Noche de terror
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIg70oPMNLhaqibPwOuZiIbpKUxwUym6sTA7BaUYdQXSN#.mkv
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://d33t5dshwl6j0s.cloudfront.net/movies/karatekid/mx/portal/assets/images/fullbanner.jpg",Karate Kid: Leyendas
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIhoiNX1SrpY8XN-u59Hebu0j5nmrfMt0g7R-VT70nFcI#.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/1/e/a/0/1ea0241acc804697827af3195f09eae6.jpg",Minecraft
 https://ia800703.us.archive.org/24/items/m1n3-cr4fT/m1n3-cr4fT.mp4
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWUyM2Y5YWMtZTUzZC00ODBiLTg1N2QtNGMzOTNkOTVjMDY4XkEyXkFqcGc@._V1_.jpg",Lilo y Stitch
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Lilo_y_Stitch-280688935-large.jpg",Lilo y Stitch
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIrSQU539lJTg4W8LXiYkVTTm95RtP2TvDGDve_GVr_TB#.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Ash-816951815-large.jpg",ASH
