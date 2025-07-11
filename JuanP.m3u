@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Ballerina-731953645-large.jpg",Ballerina, del universo de John Wick
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIh-D9SzEIf6I2Ic3CZwskxoRiyRh46Xd2HRjg522KyIF#.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.albacinema.com.gt/public/uploads/cartelera/until.jpg",Until Dawn: Noche de terror
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIg70oPMNLhaqibPwOuZiIbpKUxwUym6sTA7BaUYdQXSN#.mkv
 
