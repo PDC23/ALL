@@ -1,5 +1,10 @@
 #EXTM3U	
 
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Ballerina-731953645-large.jpg",Las Guerreras K-Pop
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPInrzZ5gUEjR26-RlDq5HKbBtV2YB5mT-9Dgj8QdDqhH6#.mp4
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/945dccc234d754d448338cc58c5a5069f4b38ebcf7d0f1a5ffdbd8d58ef79d2b.jpg",El que no corre... vuela!
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIth9CRigtG40kyxyp59_L5glKNfyQiEKlCHY3FLm0zgb#.mp4
 
