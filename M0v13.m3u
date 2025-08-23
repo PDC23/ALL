@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-595394181-large.jpg",Misión Imposible: Sentencia Mortal
+https://ia801204.us.archive.org/3/items/m-1_20231211/M1.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://images.justwatch.com/poster/329369468/s718/mision-imposible-sentencia-mortal-parte-dos.jpg",Misión Imposible: Sentencia Final
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIgr14_o02wuKZRI2gPqBbeJNR_7bD2qtqW-1voC1K2W5#.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/349fSE2Zd4fztRKK5BQ08A9rIMI.jpg",Los 4 Fantásticos
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPImFF8wAU7pNegzbrZDFKtfCl8NELJbjtAcOJlGXYCHMo#.mp4
 
@@ -398,8 +404,7 @@ https://ia800509.us.archive.org/6/items/qu-3-v-1v-4-m-3x-1c-0_202311/%C2%A1Qu3%2
 #EXTINF:-1 group-title="|NETFLIX|" tvg-logo="https://pics.filmaffinity.com/Dejar_el_mundo_atraas-433256303-large.jpg",Dejar el mundo atrás
 https://archive.org/download/de-j-4r.md-0-4tr-45/De_j4r.md0_4tr45.mkv
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-595394181-large.jpg",Misión Imposible: Sentencia mortal - Parte 1
-https://ia801204.us.archive.org/3/items/m-1_20231211/M1.mp4
+
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://horizontes365.com/assets/img/imgnoticias/Indy1.jpg",Indiana Jones y el Dial del Destino
 https://archive.org/download/1nd-14n-4/1nd14n4.mkv
