@@ -1,5 +1,10 @@
 #EXTM3U	
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://static-1.ivoox.com/audios/1/5/5/8/5261498848551_XXL.jpg",Harry Potter Y La Piedra Filosofal
+https://vodu.maxmax.live/m/p0/17304.mp4#.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://mai.maxmax.live/posters/1552491964162.jpg",Harry Potter y La Cámara Secreta
+https://vodu.maxmax.live/m/p0/17302.mp4#.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Ballerina-731953645-large.jpg",Las Guerreras K-Pop
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPInrzZ5gUEjR26-RlDq5HKbBtV2YB5mT-9Dgj8QdDqhH6#.mp4
