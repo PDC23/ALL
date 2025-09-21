@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwjNSLj5FCkwFsTx7g57ybWQDcp.jpg",La Hora de la Desaparición
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIpJ9YnZO5baP3zG422iK6C_RUfufQwr-eb4iNerLxPzz#.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/j0moebdCWDjjwS6bz1ohrsRp1Vp.jpg",Los tipos malos 2
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIlerxl_X_P942x-ylvCv7WOhbBWQsGMLzYqGOoUYznif#.mkv
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Misiaon_imposible_Sentencia_mortal_Parte_1-595394181-large.jpg",Misión Imposible: Sentencia Mortal
 https://ia801204.us.archive.org/3/items/m-1_20231211/M1.mp4
 
