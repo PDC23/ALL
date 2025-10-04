@@ -1,5 +1,14 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dyW5mX4wwDoZWgTYObx6pg9V0i9.jpg",El Conjuro 4: El último rito
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIkxOCpqN9yeipVaj1on1gTPRWmXCPBL9SDbA1os8Q7zq#.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/sLDxndoqFWwJEq7iEdYQBzPjUDQ.jpg",Tierras perdidas
+http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIlM4G_tnhLCAL5ZVAoT6adH88Xk0F0vyV4dn-2Zbm1eY#.mp4
+
+
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/cwjNSLj5FCkwFsTx7g57ybWQDcp.jpg",La Hora de la Desaparición
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIpJ9YnZO5baP3zG422iK6C_RUfufQwr-eb4iNerLxPzz#.mp4
 
