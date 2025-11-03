@@ -23,3 +23,489 @@ https://ia600405.us.archive.org/34/items/1nt-3-ns-4-m/1nt3_ns4M.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/4c/Deadpool_%26_Wolverine_poster.jpg",Deadpool & Wolverine
 https://ia801902.us.archive.org/0/items/d-34d-w-0l/D34d_p00l.mp4
+
+
+
+
+TV 
+
+#EXTINF:-1 xui-id="147960" tvg-id="animalplanet.mx" tvg-name="C | Animal Planet FHD" tvg-logo="https://static.epg.best/ar/AnimalPlanet.ar.png" group-title="TV | Cultura",C | Animal Planet FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAHshwaxDaOesG2BZfhG1Jg
+#EXTINF:-1 xui-id="148703" tvg-id="discoverychannel.mx" tvg-name="C | Discovery Channel FHD" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDIHOUvLRp12FX--VdByc2U
+#EXTINF:-1 xui-id="76427" tvg-id="Canal.a+.mx" tvg-name="M | A+" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV | Mexico",M | A+
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKsP35PseeIFLXA4_ZvejZE
+#EXTINF:-1 xui-id="76504" tvg-id="Canal.a+.mx" tvg-name="M | A+ HD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV | Mexico",M | A+ HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLBGofOCfNv9wuTkoG7qE64
+#EXTINF:-1 xui-id="154122" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-name="M | Azteca 7" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV | Mexico",M | Azteca 7
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAMHSn99Uagp3XChFzLrSGY
+#EXTINF:-1 xui-id="10814" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-name="M | Azteca 7 HD" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV | Mexico",M | Azteca 7 HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmA8PMipPncmkAaxO66iM-Kk
+#EXTINF:-1 xui-id="197238" tvg-id="Canal.Clic.mx" tvg-name="M | Azteca Clic" tvg-logo="http://ceoapps.org/logos/clic.png" group-title="TV | Mexico",M | Azteca Clic
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOpniNR528TmSYtitP0lCWA
+#EXTINF:-1 xui-id="154119" tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-name="M | Azteca Corazon" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV | Mexico",M | Azteca Corazon
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmP13NzEDuM0-gCKYDIKJVW0
+#EXTINF:-1 xui-id="75648" tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-name="M | Azteca Corazon HD" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV | Mexico",M | Azteca Corazon HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJjEDV6NDXLwy8DT_q65MpI
+#EXTINF:-1 xui-id="199505" tvg-id="Canal.TV.Azteca.Mundo.mx" tvg-name="M | Azteca Internacional" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="TV | Mexico",M | Azteca Internacional
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmE_XWXYIA_KOZAO6DdADjgQ
+#EXTINF:-1 xui-id="10835" tvg-id="Canal.Azteca.Uno.mx" tvg-name="M | Azteca Uno" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV | Mexico",M | Azteca Uno
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmImtVxr7l4bln3Jhc9nTTmQ
+#EXTINF:-1 xui-id="203184" tvg-id="Canal.Azteca.Uno.mx" tvg-name="M | Azteca Uno HD" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV | Mexico",M | Azteca Uno HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmA7-mbvQwiU68WoNZsRvIeg
+#EXTINF:-1 xui-id="155185" tvg-id="Canal.Azteca.Uno.mx" tvg-name="M | Azteca Uno HQ" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV | Mexico",M | Azteca Uno HQ
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBCD1wqN77V7M2504JrA9mQ
+#EXTINF:-1 xui-id="165131" tvg-id="" tvg-name="M | CANAL 12 Tijuana" tvg-logo="http://ceoapps.org/logos/canal12.png" group-title="TV | Mexico",M | CANAL 12 Tijuana
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFOcAWeYc0kbLI7H2RGJ7gk
+#EXTINF:-1 xui-id="165124" tvg-id="digital15" tvg-name="M | Canal 15 Fresnillo" tvg-logo="https://b15.com.mx/wp-content/uploads/2024/02/B15-Fresnillo2.png" group-title="TV | Mexico",M | Canal 15 Fresnillo
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIdRimKVpQrMoN4r6VzPMtI
+#EXTINF:-1 xui-id="10823" tvg-id="" tvg-name="M | CANAL 26 Aguascalientes" tvg-logo="http://ceoapps.org/logos/canal26aguascalientes.png" group-title="TV | Mexico",M | CANAL 26 Aguascalientes
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHDYgcmgCVVyy-gM2xdowrY
+#EXTINF:-1 xui-id="10839" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="M | Canal 5" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV | Mexico",M | Canal 5
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLybokjlOYOsUBM1dOHvtG8
+#EXTINF:-1 xui-id="155186" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="M | Canal 5 HD" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV | Mexico",M | Canal 5 HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFlIs5GsXCf1jOT4mY3MU_E
+#EXTINF:-1 xui-id="212819" tvg-id="" tvg-name="M | Canal 6.2 Multimedios Saltillo" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Canal 6.2 Multimedios Saltillo
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIEJ-qTjp1-QBZaJnGcO-Cc
+#EXTINF:-1 xui-id="216022" tvg-id="" tvg-name="M | Canal 7 SLP" tvg-logo="http://ceoapps.org/logos/slpz.png" group-title="TV | Mexico",M | Canal 7 SLP
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFyAOJzFKn0JBYsfvrfWeVo
+#EXTINF:-1 xui-id="10820" tvg-id="" tvg-name="M | Televisa Ensenada (Baja California)" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Ensenada (Baja California)
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOevFR9HxsYnlLX2ccM9qZM
+#EXTINF:-1 xui-id="10831" tvg-id="" tvg-name="M | Canal Judicial HQ" tvg-logo="http://ceoapps.org/logos/canaljudicial.png" group-title="TV | Mexico",M | Canal Judicial HQ
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHxS1PbHC5NvSHhthwaT1lc
+#EXTINF:-1 xui-id="10836" tvg-id="Canal.11.de.México.mx" tvg-name="M | Canal Once" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV | Mexico",M | Canal Once
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmF-77wlr_pH793oRVeD-ST8
+#EXTINF:-1 xui-id="154116" tvg-id="Canal.11.de.México.mx" tvg-name="M | Canal Once HD" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV | Mexico",M | Canal Once HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIzm8i5fT9riJNiovJHCsxs
+#EXTINF:-1 xui-id="10822" tvg-id="" tvg-name="M | Imagen TV" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV | Mexico",M | Imagen TV
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMMgwRBaxm2VCoo4PL92TwE
+#EXTINF:-1 xui-id="155182" tvg-id="" tvg-name="M | Imagen TV HD" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV | Mexico",M | Imagen TV HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBd5nRpqKEYxv2MV_5mTFmM
+#EXTINF:-1 xui-id="216023" tvg-id="" tvg-name="M | Jalisco TV" tvg-logo="http://ceoapps.org/logos/jaliscotv.png" group-title="TV | Mexico",M | Jalisco TV
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMe8szZBSJS3oP-fOfys0bc
+#EXTINF:-1 xui-id="154121" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="M | Las Estrellas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV | Mexico",M | Las Estrellas
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEMAr4BDjnh6sNYC0kLDLdM
+#EXTINF:-1 xui-id="212817" tvg-id="Canal.de.las.Estrellas.-2.Horas.-.México.(XEW).mx" tvg-name="M | Las Estrellas -2 Horas" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV | Mexico",M | Las Estrellas -2 Horas
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDPAXd5-aQyb12JRK7fPP1E
+#EXTINF:-1 xui-id="10840" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="M | Las Estrellas HD" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV | Mexico",M | Las Estrellas HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDR7vGzCtY3kYx01NyE8aWs
+#EXTINF:-1 xui-id="10821" tvg-id="" tvg-name="M | Multimedios CDMX" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios CDMX
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFonzaHbvw1uMhiw1Jdps2s
+#EXTINF:-1 xui-id="165126" tvg-id="" tvg-name="M | Multimedios Guadalajara" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios Guadalajara
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmN24TXfd-lw3n8jPr2QuMX8
+#EXTINF:-1 xui-id="199373" tvg-id="" tvg-name="M | Multimedios -2 HR" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios -2 HR
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKmDURYviviEAUlLX343x-8
+#EXTINF:-1 xui-id="165127" tvg-id="" tvg-name="M | Multimedios Laguna" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios Laguna
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAx7mHBgyfaa3Jbn3agVRHE
+#EXTINF:-1 xui-id="10834" tvg-id="" tvg-name="M | Multimedios Monterrey" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios Monterrey
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIG2GRzCBlH4ECvhYPJ1NZE
+#EXTINF:-1 xui-id="202592" tvg-id="" tvg-name="M | Multimedios Cd Juarez" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios Cd Juarez
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGVpnA0AIizpZ-awbYNz7Ls
+#EXTINF:-1 xui-id="165129" tvg-id="" tvg-name="M | Canal 33 Tijuana" tvg-logo="https://i0.wp.com/canal66.tv/wp-content/uploads/2024/08/33.2-LOGO-COLOR.png?resize=1080%2C444&ssl=1" group-title="TV | Mexico",M | Canal 33 Tijuana
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGgsUX0x2_PENuBXltCF10s
+#EXTINF:-1 xui-id="76078" tvg-id="" tvg-name="M | MVS TV" tvg-logo="http://ceoapps.org/logos/mvs.png" group-title="TV | Mexico",M | MVS TV
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBQG80H8BvsxgtJSPoGrQ_s
+#EXTINF:-1 xui-id="154118" tvg-id="" tvg-name="M | MVS TV HQ" tvg-logo="http://ceoapps.org/logos/mvs.png" group-title="TV | Mexico",M | MVS TV HQ
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBtraaZW1Jg16nlmN8GRcaQ
+#EXTINF:-1 xui-id="154124" tvg-id="Canal.9.de.México.(XEQ-TDT).mx" tvg-name="M | Nu9ve" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV | Mexico",M | Nu9ve
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCUsHS0zVj3sFUaY10NBt30
+#EXTINF:-1 xui-id="155183" tvg-id="" tvg-name="M | Nu9ve TV HD" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV | Mexico",M | Nu9ve TV HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH_iWNMIZG1e7jJBTXf-_Bg
+#EXTINF:-1 xui-id="165132" tvg-id="" tvg-name="M | RCG 3 Saltillo" tvg-logo="http://ceoapps.org/logos/rcg.png" group-title="TV | Mexico",M | RCG 3 Saltillo
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBtCdapiIOlLSBS3aeFJtK4
+#EXTINF:-1 xui-id="165133" tvg-id="" tvg-name="M | RTQ Queretaro" tvg-logo="http://ceoapps.org/logos/rtq.png" group-title="TV | Mexico",M | RTQ Queretaro
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKcdjcfgt9oIkUYepaG3B8U
+#EXTINF:-1 xui-id="216024" tvg-id="" tvg-name="M | SET Puebla" tvg-logo="http://ceoapps.org/logos/set.png" group-title="TV | Mexico",M | SET Puebla
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIu0zLz0AXAAgsqo_ub-3SY
+#EXTINF:-1 xui-id="165134" tvg-id="" tvg-name="M | Sipse TV Cancun" tvg-logo="http://ceoapps.org/logos/sipse.png" group-title="TV | Mexico",M | Sipse TV Cancun
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPK8EcUAvx8B5u9tgqcSVxg
+#EXTINF:-1 xui-id="97293" tvg-id="" tvg-name="M | Telemax" tvg-logo="http://ceoapps.org/logos/telemax.png" group-title="TV | Mexico",M | Telemax
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIzJdyR6iNR7KdfTgfIAgrI
+#EXTINF:-1 xui-id="165136" tvg-id="" tvg-name="M | Telemax Hermosillo" tvg-logo="http://ceoapps.org/logos/telemax.png" group-title="TV | Mexico",M | Telemax Hermosillo
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPgBGEb-XOWmGprpHSf8gEk
+#EXTINF:-1 xui-id="10832" tvg-id="" tvg-name="M | TeleVer" tvg-logo="http://ceoapps.org/logos/telever.png" group-title="TV | Mexico",M | TeleVer
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBin76kCE4b9-lV6SUM70_w
+#EXTINF:-1 xui-id="154120" tvg-id="" tvg-name="M | Televisa Monterrey" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Monterrey
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmA7RfoNfXUxBEn0tWFt49xM
+#EXTINF:-1 xui-id="224164" tvg-id="xhpdt.mx" tvg-name="M | Televisa Puebla" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Puebla
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLVX9-rZgFeGfw54-v_CvFQ
+#EXTINF:-1 xui-id="165138" tvg-id="" tvg-name="M | TRC TV Campeche" tvg-logo="http://ceoapps.org/logos/trc.png" group-title="TV | Mexico",M | TRC TV Campeche
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNFq-6cxFeQT7athgJ0vBaw
+#EXTINF:-1 xui-id="10817" tvg-id="" tvg-name="M | TV MAS" tvg-logo="http://ceoapps.org/logos/tvmas.png" group-title="TV | Mexico",M | TV MAS
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOaR_ziZToai-IYL7apLFxk
+#EXTINF:-1 xui-id="2123316" tvg-id="" tvg-name="M| Canal 12 Tijuana" tvg-logo="http://ceoapps.org/logos/canal12.png" group-title="TV | Mexico",M| Canal 12 Tijuana
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmM-0g8eWi-IRJI5UGNldpK4
+#EXTINF:-1 xui-id="2123314" tvg-id="" tvg-name="M| Canal 4" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV | Mexico",M| Canal 4
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPTYvponmU4JFX8s7AbYeiA
+#EXTINF:-1 xui-id="2123294" tvg-id="" tvg-name="M | TVT Tabasco" tvg-logo="http://ceoapps.org/logos/tvt.png" group-title="TV | Mexico",M | TVT Tabasco
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmN3I38nF9oMc8AYVaxcPa7g
+#EXTINF:-1 xui-id="200381" tvg-id="" tvg-name="N | Canal 44 - El Canal de las Noticias" tvg-logo="http://ceoapps.org/logos/canal44.png" group-title="TV | Mexico",N | Canal 44 - El Canal de las Noticias
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPdbfSjuXUZW9dr16KOawDk
+#EXTINF:-1 xui-id="2145513" tvg-id="Canal.Clic.mx" tvg-name="M | Azteca Clic HD" tvg-logo="http://ceoapps.org/logos/clic.png" group-title="TV | Mexico",M | Azteca Clic HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEYYAnKCYyALSTZX6fYu8RQ
+#EXTINF:-1 xui-id="2145514" tvg-id="" tvg-name="M | Canal del Congreso" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png" group-title="TV | Mexico",M | Canal del Congreso
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHDeTE20C3XIA8v5wOlsdss
+#EXTINF:-1 xui-id="2145663" tvg-id="" tvg-name="M | Televisa Puebla HD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Puebla HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOhX8JrDF7nKYRANkBz69jU
+#EXTINF:-1 xui-id="2145666" tvg-id="" tvg-name="M | Justicia TV HD" tvg-logo="http://ceoapps.org/logos/justiciatv.png" group-title="TV | Mexico",M | Justicia TV HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDKcRtsxGE6ZuJoRwHVjlVA
+#EXTINF:-1 xui-id="2145669" tvg-id="Canal.Meganoticias.MX.mx" tvg-name="M | AMX Noticias" tvg-logo="http://ceoapps.org/logos/amx.png" group-title="TV | Mexico",M | AMX Noticias
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmE_ph6ESQxHvD8lbI9rQ-d0
+#EXTINF:-1 xui-id="2145674" tvg-id="" tvg-name="M | Canal 4 Guajuato HD" tvg-logo="http://ceoapps.org/logos/tvcuatro.png" group-title="TV | Mexico",M | Canal 4 Guajuato HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAM6UeBkrJohTzYDTDwZ_R0
+#EXTINF:-1 xui-id="2145707" tvg-id="Canal.Mexiquense.TV.mx" tvg-name="M | Mexiquense" tvg-logo="http://ceoapps.org/logos/mexiquense.png" group-title="TV | Mexico",M | Mexiquense
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAfdUffkmtcI21xO2bFpY1c
+#EXTINF:-1 xui-id="2151042" tvg-id="" tvg-name="MULTIMEDIOS Bajío HD" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",MULTIMEDIOS Bajío HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFNjwwNtT9QoAgt9j3wGgOQ
+#EXTINF:-1 xui-id="2157917" tvg-id="" tvg-name="M | Televisa Guadalajara" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Guadalajara
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNhhmT0h9T1-fMvIfT4s3Ko
+#EXTINF:-1 xui-id="2158064" tvg-id="" tvg-name="M | Televisa Cd Juarez" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Cd Juarez
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmB-NeoDkbVP8nOfTwGTIsuA
+#EXTINF:-1 xui-id="2158065" tvg-id="" tvg-name="M | Canal 13 Tabasco" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Tabasco
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDjseAGpP52uNxRLDczkCIE
+#EXTINF:-1 xui-id="2158066" tvg-id="" tvg-name="M | Canal 13 Michoacan" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Michoacan
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmK0q9QCque4rsjOk0O5tmVk
+#EXTINF:-1 xui-id="2158067" tvg-id="" tvg-name="M | Canal 13 Campeche" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Campeche
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJKkFHreBaNK8xCB8ac7PaY
+#EXTINF:-1 xui-id="2158068" tvg-id="" tvg-name="M | Canal 13 Chiapas" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Chiapas
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmC7E0gfEoTWndJ-4-E4ImcU
+#EXTINF:-1 xui-id="2158069" tvg-id="" tvg-name="M | Canal 13 Oaxaca" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Oaxaca
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEPvZkjO7YB6YTYBrKLDOiE
+#EXTINF:-1 xui-id="2158070" tvg-id="" tvg-name="M | Canal 13 Yucatan" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Yucatan
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmE40yG9qshNVOJlMcTMvn4A
+#EXTINF:-1 xui-id="2158071" tvg-id="" tvg-name="M | Canal 13 Puebla" tvg-logo="http://ceoapps.org/logos/canal13.png" group-title="TV | Mexico",M | Canal 13 Puebla
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBTDpiBUUsUzCqW1eUHMUyE
+#EXTINF:-1 xui-id="2159384" tvg-id="" tvg-name="M | Canal 66 Mexicali" tvg-logo="http://ceoapps.org/logos/canal66.png" group-title="TV | Mexico",M | Canal 66 Mexicali
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDIFFW7ReN7NmuZpD9Z5XhY
+#EXTINF:-1 xui-id="2159387" tvg-id="Canal.22.de.México.mx" tvg-name="M | Canal 22" tvg-logo="http://ceoapps.org/logos/canal22.png" group-title="TV | Mexico",M | Canal 22
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmP9JNmuzgPo5-CSWSJSdL3o
+#EXTINF:-1 xui-id="2123315" tvg-id="" tvg-name="M | Canal 4 Guadalajara" tvg-logo="http://ceoapps.org/logos/canal_4_guadalajuara.png" group-title="TV | Mexico",M | Canal 4 Guadalajara
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJRFSGN5OjxsE86F7_R-8mw
+#EXTINF:-1 xui-id="2165784" tvg-id="" tvg-name="M | Canal 10 Durango" tvg-logo="http://ceoapps.org/logos/canal10durango.png" group-title="TV | Mexico",M | Canal 10 Durango
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIA69ZhNWZ6OcPyXEV2SUu8
+#EXTINF:-1 xui-id="2169170" tvg-id="" tvg-name="M | Canal 28 Nuevo Leon" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlWHoy5yJ7heDwhf6p65dXQKY-Ut3fzqt9tQ&s" group-title="TV | Mexico",M | Canal 28 Nuevo Leon
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIuaXDuDK-9zeCwq9YdEWTc
+#EXTINF:-1 xui-id="2169272" tvg-id="" tvg-name="M | Televisa Yucatan" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Yucatan
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmD9y9Qyhih6xcNmVw2yA3jQ
+#EXTINF:-1 xui-id="2169493" tvg-id="" tvg-name="M | Televisa Sonora" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Sonora
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDzLKrUWp9q9OjmALukBVpE
+#EXTINF:-1 xui-id="2191519" tvg-id="" tvg-name="M | Azteca Deportes" tvg-logo="https://yt3.googleusercontent.com/WkOKhgNyYkox6kX1cinPMu1BjS7UdskGuH9bAcfoPt66JCLJzA5_Yvd-msoyifJlJlV-TjgHMg=s900-c-k-c0x00ffffff-no-rj" group-title="TV | Mexico",M | Azteca Deportes
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEMa2zgF7YARwVzzF5c3_6o
+#EXTINF:-1 xui-id="2195294" tvg-id="" tvg-name="M | Televisa Saltillo (Coahuila)" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Saltillo (Coahuila)
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBuB0jsj59YbPcZUSVIX-V4
+#EXTINF:-1 xui-id="2195295" tvg-id="" tvg-name="M | Televisa Torreon (Coahuila)" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Torreon (Coahuila)
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHWxhP4fYMMLYIupsJq7PZg
+#EXTINF:-1 xui-id="2195296" tvg-id="" tvg-name="M | Televisa Noreste" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Noreste
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKbID9jQjUaY5RY3bwHdDbQ
+#EXTINF:-1 xui-id="2195300" tvg-id="" tvg-name="M | Televisa Sinaloa" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Sinaloa
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEB8UksVzl2y9O_BTjwOgFo
+#EXTINF:-1 xui-id="2195301" tvg-id="" tvg-name="M | Televisa Zacatecas" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Zacatecas
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHOXRxQLIXkAFpzDPjdtZxU
+#EXTINF:-1 xui-id="2095403" tvg-id="NBC.Sports.us" tvg-name="2MB | Discovery Science LQ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Discovery_Science_-_Logo_2012.svg/1280px-Discovery_Science_-_Logo_2012.svg.png" group-title="TV | 2 Megas",2MB | Discovery Science LQ
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNeQhTiHrRPaCvWJgPtMAOM
+#EXTINF:-1 xui-id="2218860" tvg-id="foodnetwork.mx" tvg-name="C | Food Network FHD" tvg-logo="http://www.tmsimg.com/assets/s91919_ll_h3_aa.png" group-title="TV | Cultura",C | Food Network FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKeZcKwex-ptODDItyjvtaE
+#EXTINF:-1 xui-id="2218853" tvg-id="Discovery.Channel.co" tvg-name="C | Discovery Channel CO FHD" tvg-logo="http://ceoapps.org/logos/discoverychannelizzi.png" group-title="TV | Cultura",C | Discovery Channel CO FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMKcxUQBH5OZeeG3AuAiBX0
+#EXTINF:-1 xui-id="154075" tvg-id="history2.mx" tvg-name="C | H2 FHD" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | Cultura",C | H2 FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMzecHnSLBFW4y-LNvsxR74
+#EXTINF:-1 xui-id="148715" tvg-id="wobi.mx" tvg-name="C | Wobi FHD" tvg-logo="http://ceoapps.org/logos/wobi.png" group-title="TV | Cultura",C | Wobi FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEaJT_89UfLDAbBghdxoYNE
+#EXTINF:-1 xui-id="148714" tvg-id="Canal.TLC.(México).mx" tvg-name="C | TLC FHD" tvg-logo="http://ceoapps.org/logos/tlc.png" group-title="TV | Cultura",C | TLC FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOxi947PMIxmLCgijaKQBW0
+#EXTINF:-1 xui-id="148712" tvg-id="natgeo.mx" tvg-name="C | Nat Geo FHD" tvg-logo="http://ceoapps.org/logos/natgeo.png" group-title="TV | Cultura",C | Nat Geo FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFwseC8t9GuxH9tvRTegAlM
+#EXTINF:-1 xui-id="148711" tvg-id="historychannel.mx" tvg-name="C | History FHD" tvg-logo="http://ceoapps.org/logos/history.png" group-title="TV | Cultura",C | History FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLnsCnHp0iC58MC73XLHhSY
+#EXTINF:-1 xui-id="148709" tvg-id="elgourmet.mx" tvg-name="C | El Gourmet FHD" tvg-logo="http://ceoapps.org/logos/elgourmet.png" group-title="TV | Cultura",C | El Gourmet FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDDjL1w89RnawNpRE2nGYTQ
+#EXTINF:-1 xui-id="148708" tvg-id="discoveryworld.mx" tvg-name="C | Discovery World FHD" tvg-logo="http://ceoapps.org/logos/discoveryworld.png" group-title="TV | Cultura",C | Discovery World FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHYJMHG5eo7LuAhbQIj7fwo
+#EXTINF:-1 xui-id="148707" tvg-id="discoveryturbo.mx" tvg-name="C | Discovery Turbo FHD" tvg-logo="http://atlantis-mx.com/channels/logos/68c4587edf10e.png" group-title="TV | Cultura",C | Discovery Turbo FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMaLUPtRPPq395mtBmO_sYo
+#EXTINF:-1 xui-id="148706" tvg-id="discoveryhdtheater.mx" tvg-name="C | Discovery Theater FHD" tvg-logo="http://ceoapps.org/logos/discoverytheater.png" group-title="TV | Cultura",C | Discovery Theater FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmONCj1h61ThLmQesAP50htE
+#EXTINF:-1 xui-id="148705" tvg-id="investigationdiscovery.mx" tvg-name="C | Discovery Investigation FHD" tvg-logo="http://atlantis-mx.com/channels/logos/68c4577c21c62.png" group-title="TV | Cultura",C | Discovery Investigation FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH2Bs3Bho8Oobf8lMHHtTm0
+#EXTINF:-1 xui-id="154090" tvg-id="Canal.Nickelodeon.(México).mx" tvg-name="I | Nickelodeon FHD" tvg-logo="https://static.epg.best/us/Nickelodeon.us.png" group-title="TV | Infantil",I | Nickelodeon FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNQQwtKz6u_Y-bFLJ_AXMe4
+#EXTINF:-1 xui-id="154089" tvg-id="Canal.Nick.Jr..(México).mx" tvg-name="I | Nick Jr FHD" tvg-logo="https://static.epg.best/us/NickJr.us.png" group-title="TV | Infantil",I | Nick Jr FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOyqjJjdkjflPOf89-Vm_io
+#EXTINF:-1 xui-id="154083" tvg-id="Canal.Disney.Junior.(México).mx" tvg-name="I | Disney Jr FHD" tvg-logo="https://static.epg.best/se/DisneyJunior.se.png" group-title="TV | Infantil",I | Disney Jr FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAmbl7HW0KStqPMlDNRqdN4
+#EXTINF:-1 xui-id="154082" tvg-id="Canal.Discovery.Kids.(México).mx" tvg-name="I | Discovery Kids FHD" tvg-logo="http://ceoapps.org/logos/discoverykids2.png" group-title="TV | Infantil",I | Discovery Kids FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmC2ODiAQhmUEB3Fme5xGKFo
+#EXTINF:-1 xui-id="154080" tvg-id="Canal.Cartoon.Network.(México).mx" tvg-name="I | Cartoon Network FHD" tvg-logo="https://static.epg.best/pa/CartoonNetwork.pa.png" group-title="TV | Infantil",I | Cartoon Network FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmP5pGq6xzIMOekwBzDp3w-c
+#EXTINF:-1 xui-id="154079" tvg-id="Canal.Cartoonito.(México).mx" tvg-name="I | Cartoonito Boomerang FHD" tvg-logo="http://ceoapps.org/logos/cartoonito.png" group-title="TV | Infantil",I | Cartoonito Boomerang FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIAFHEs9d4ZZROuraX20VMs
+#EXTINF:-1 xui-id="154077" tvg-id="Canal.BabyFirst.TV.mx" tvg-name="I | Baby First FHD" tvg-logo="https://static.epg.best/us/BabyFirstTV.us.png" group-title="TV | Infantil",I | Baby First FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFwMKCUMY7btvtDtas8kq7M
+#EXTINF:-1 xui-id="148728" tvg-id="Canal.Disney.Channel.(México).mx" tvg-name="I | Disney Channel FHD" tvg-logo="https://static.epg.best/ar/DisneyChannel.ar.png" group-title="TV | Infantil",I | Disney Channel FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGrSm7MRJNkUT5wmwRC4gak
+#EXTINF:-1 xui-id="187635" tvg-id="Canal.Azteca.Uno.mx" tvg-name="E | Lifetime FHD" tvg-logo="https://static.epg.best/mx/Lifetime.mx.png" group-title="TV | Entretenimiento",E | Lifetime FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBsvacLhNcmBmi0cPQNCgPA
+#EXTINF:-1 xui-id="148810" tvg-id="Canal.Azteca.Uno.mx" tvg-name="E | Warner FHD" tvg-logo="https://static.epg.best/ar/Warner.ar.png" group-title="TV | Entretenimiento",E | Warner FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKRkEmBiQc9tBUneK1e2x2U
+#EXTINF:-1 xui-id="148809" tvg-id="HolaTV" tvg-name="E | Hola TV FHD" tvg-logo="https://static.epg.best/co/HolaTv.co.png" group-title="TV | Entretenimiento",E | Hola TV FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJgEQU4OK_SOTzCvzpZEIyc
+#EXTINF:-1 xui-id="148808" tvg-id="" tvg-name="E | Mas Chic FHD" tvg-logo="https://static.epg.best/mx/MasChicTV.mx.png" group-title="TV | Entretenimiento",E | Mas Chic FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLeTTXiJWgsBMYe7_w3BIaU
+#EXTINF:-1 xui-id="148807" tvg-id="" tvg-name="E | MTV FHD" tvg-logo="http://atlantis-mx.com/channels/logos/68f12ab05067e.png" group-title="TV | Entretenimiento",E | MTV FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKjaTKMqmb2In41AMJc5wHE
+#EXTINF:-1 xui-id="148806" tvg-id="Canal.Sony.(México).mx" tvg-name="E | Sony FHD" tvg-logo="http://atlantis-mx.com/channels/logos/6907f7e4e82ca.png" group-title="TV | Entretenimiento",E | Sony FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPTIamdneszmIUE1EbyBhu8
+#EXTINF:-1 xui-id="148805" tvg-id="Canal.Azteca.Uno.mx" tvg-name="E | TNT Series FHD" tvg-logo="https://static.epg.best/mx/TNTSeries.mx.png" group-title="TV | Entretenimiento",E | TNT Series FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAxped0XWgNRycrm4lnZ2Eg
+#EXTINF:-1 xui-id="148804" tvg-id="Canal.Azteca.Uno.mx" tvg-name="E | Adult Swin FHD" tvg-logo="https://variety.com/wp-content/uploads/2014/02/adult-swim1.jpg?w=1000&h=562&crop=1" group-title="TV | Entretenimiento",E | Adult Swin FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmE7vUFYMzTEME2XIdq8IL74
+#EXTINF:-1 xui-id="148723" tvg-id="" tvg-name="E | Star Channel FHD" tvg-logo="http://ceoapps.org/logos/starchannel.png" group-title="TV | Entretenimiento",E | Star Channel FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNRyVAhkDkU_Xznu7-hJY6M
+#EXTINF:-1 xui-id="148722" tvg-id="Canal.Azteca.Uno.mx" tvg-name="E | E! FHD" tvg-logo="https://static.epg.best/mx/EEntertainment.mx.png" group-title="TV | Entretenimiento",E | E! FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPbGzt8c8D3Y22JN5F0C7QE
+#EXTINF:-1 xui-id="148721" tvg-id="distritocomedia.mx" tvg-name="E | Distrito Comedia FHD" tvg-logo="https://static.epg.best/mx/DistritoComedia.mx.png" group-title="TV | Entretenimiento",E | Distrito Comedia FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIuBSQmgI2s5mTnKS9Xfiqw
+#EXTINF:-1 xui-id="148720" tvg-id="" tvg-name="E | Comedy Central FHD" tvg-logo="https://logodownload.org/wp-content/uploads/2021/05/comedy-central-logo-0.png" group-title="TV | Entretenimiento",E | Comedy Central FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKHusPgSznhBbrX0zcf_zvA
+#EXTINF:-1 xui-id="148719" tvg-id="bitme.mx" tvg-name="E | Bitme FHD" tvg-logo="http://ceoapps.org/logos/bitme.png" group-title="TV | Entretenimiento",E | Bitme FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKj4050Z3hPdPBAZJ33DdQc
+#EXTINF:-1 xui-id="148718" tvg-id="Canal.Azteca.Uno.mx" tvg-name="E | AXN FHD" tvg-logo="https://static.epg.best/th/AXN.th.png" group-title="TV | Entretenimiento",E | AXN FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH_Q7CxnCvwDMgDNZoTUtMU
+#EXTINF:-1 xui-id="148717" tvg-id="" tvg-name="E | AMC FHD" tvg-logo="https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDY5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png" group-title="TV | Entretenimiento",E | AMC FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCzIVTps_YE0Zu5OakwIwnE
+#EXTINF:-1 xui-id="148716" tvg-id="Canal.A&E.(México).mx" tvg-name="E | A&E FHD" tvg-logo="https://static.epg.best/mx/AandE.mx.png" group-title="TV | Entretenimiento",E | A&E FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCwMN0briy4_Zt7gFbxEZ38
+#EXTINF:-1 xui-id="203185" tvg-id="" tvg-name="D | DTV SPORTS FHD" tvg-logo="http://ceoapps.org/logos/directvsports1.png" group-title="TV | Deportes",D | DTV SPORTS FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJMK11j80oH9BA2VCThBjyM
+#EXTINF:-1 xui-id="202064" tvg-id="" tvg-name="D | Espn | ARG FHD" tvg-logo="http://ceoapps.org/logos/espnarg1.png" group-title="TV | Deportes",D | Espn | ARG FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJyaF2Adab6DX0OFfnvTGL0
+#EXTINF:-1 xui-id="195840" tvg-id="" tvg-name="D | FOX Sports Premium Arg FHD" tvg-logo="http://ceoapps.org/logos/foxsportspremium.png" group-title="TV | Deportes",D | FOX Sports Premium Arg FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMjJFrqq5sRyHtLI1CYvsPY
+#EXTINF:-1 xui-id="183333" tvg-id="" tvg-name="D| Fox Sports 2 | CL FHD" tvg-logo="http://ceoapps.org/logos/foxsports2cl.png" group-title="TV | Deportes",D| Fox Sports 2 | CL FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGKPmDE-Tgr_v4GjFCd2clI
+#EXTINF:-1 xui-id="183329" tvg-id="" tvg-name="D| Fox Sports | CL FHD" tvg-logo="http://ceoapps.org/logos/foxsportscl1.png" group-title="TV | Deportes",D| Fox Sports | CL FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmK8jAEwxIlCN3HC49aSQqHc
+#EXTINF:-1 xui-id="183214" tvg-id="" tvg-name="D| Fox Sports 3 | COL FHD" tvg-logo="http://ceoapps.org/logos/foxsports3col2.png" group-title="TV | Deportes",D| Fox Sports 3 | COL FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBb4DMCaX6X8KAP5J9lk2po
+#EXTINF:-1 xui-id="183213" tvg-id="" tvg-name="D| Fox Sports 2 | COL FHD" tvg-logo="http://ceoapps.org/logos/foxsports2col.png" group-title="TV | Deportes",D| Fox Sports 2 | COL FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLFRSNO0oIJO9ph6ny9TBK8
+#EXTINF:-1 xui-id="181378" tvg-id="" tvg-name="D| Espn EXTRA FHD" tvg-logo="http://ceoapps.org/logos/espnextra.png" group-title="TV | Deportes",D| Espn EXTRA FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOsLJgI1U9HlUSfzL5uOjs0
+#EXTINF:-1 xui-id="181351" tvg-id="" tvg-name="D| Espn 2 | COL FHD" tvg-logo="http://ceoapps.org/logos/espn2col.png" group-title="TV | Deportes",D| Espn 2 | COL FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAvgYfC5IhvMoM2oIgSMcnk
+#EXTINF:-1 xui-id="181349" tvg-id="" tvg-name="D| Espn 3 | ARG FHD" tvg-logo="http://ceoapps.org/logos/espn3arg.png" group-title="TV | Deportes",D| Espn 3 | ARG FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCvXNrdIMxUXfGDMgK0twAc
+#EXTINF:-1 xui-id="158477" tvg-id="cazapesca.es" tvg-name="D| Caza y pesca FHD" tvg-logo="http://ceoapps.org/logos/cazaypesca.png" group-title="TV | Deportes",D| Caza y pesca FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmN8lifE74xVoOFk3tqfedz8
+#EXTINF:-1 xui-id="155650" tvg-id="Canal.Azteca.Uno.mx" tvg-name="D| Fox Sports 3 | MX FHD" tvg-logo="http://ceoapps.org/logos/foxsports3mx3.png" group-title="TV | Deportes",D| Fox Sports 3 | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJEGPZa0zyjkMy8SuYTR0Qg
+#EXTINF:-1 xui-id="155649" tvg-id="Canal.Azteca.Uno.mx" tvg-name="D| Fox Sports 2 | MX FHD" tvg-logo="http://ceoapps.org/logos/foxsports2mx.png" group-title="TV | Deportes",D| Fox Sports 2 | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmG9A_pLohGy87lWvTNxayTU
+#EXTINF:-1 xui-id="155475" tvg-id="espn3.mx" tvg-name="D| Espn 3 | MX FHD" tvg-logo="http://ceoapps.org/logos/espn3mx.png" group-title="TV | Deportes",D| Espn 3 | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGO3YEqQbsIlJuC-hoDdnW8
+#EXTINF:-1 xui-id="155250" tvg-id="AdrSport" tvg-name="D| Adrenalina Sports FHD" tvg-logo="http://ceoapps.org/logos/adrenalinasports2.png" group-title="TV | Deportes",D| Adrenalina Sports FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLtzgAY17d5jpd0mf9i2MCE
+#EXTINF:-1 xui-id="21798" tvg-id="futv" tvg-name="D| FUTV CR FHD" tvg-logo="http://ceoapps.org/logos/futv.png" group-title="TV | Deportes",D| FUTV CR FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJgdL9vUyUDQ3YEpIYCw2Dw
+#EXTINF:-1 xui-id="17316" tvg-id="" tvg-name="D| TNT Sports Premium FHD" tvg-logo="https://tntsports.com.mx/logo_2024.png" group-title="TV | Deportes",D| TNT Sports Premium FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAx5cErNaCVNgyFdrjyPOLA
+#EXTINF:-1 xui-id="10964" tvg-id="" tvg-name="D| Espn Plus | MX FHD" tvg-logo="http://ceoapps.org/logos/espnplusmxpng.png" group-title="TV | Deportes",D| Espn Plus | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLXhswpRW-qTGyrzoPb52KM
+#EXTINF:-1 xui-id="10963" tvg-id="Canal.Azteca.Uno.mx" tvg-name="D| Espn | MX FHD" tvg-logo="http://ceoapps.org/logos/espnmx.png" group-title="TV | Deportes",D| Espn | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHGcjz5z-hzc6qqO-2i74DM
+#EXTINF:-1 xui-id="10962" tvg-id="espn2.mx" tvg-name="D| Espn 2 | MX FHD" tvg-logo="http://ceoapps.org/logos/espn2mx.png" group-title="TV | Deportes",D| Espn 2 | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCKHBQEgFSPxg-jVHvMYMKE
+#EXTINF:-1 xui-id="10961" tvg-id="" tvg-name="D| AyM Sports FHD" tvg-logo="http://ceoapps.org/logos/aym.png" group-title="TV | Deportes",D| AyM Sports FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmA8L8lJW3jf_1pyNv59NdK4
+#EXTINF:-1 xui-id="10959" tvg-id="" tvg-name="D| Fox Sports | ARG FHD" tvg-logo="http://ceoapps.org/logos/foxsportsarg1.png" group-title="TV | Deportes",D| Fox Sports | ARG FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDoAeWJ808g6cHONZRn1C3M
+#EXTINF:-1 xui-id="10955" tvg-id="" tvg-name="D| TUDN MX FHD" tvg-logo="http://ceoapps.org/logos/tudnmx.png" group-title="TV | Deportes",D| TUDN MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIuZvIM4aOD4o1on6KV6deM
+#EXTINF:-1 xui-id="10953" tvg-id="Canal.Azteca.Uno.mx" tvg-name="D| Fox Sports | MX FHD" tvg-logo="http://ceoapps.org/logos/foxsportsmx1.png" group-title="TV | Deportes",D| Fox Sports | MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDqdYLYscZZUhnRAR16TG2s
+#EXTINF:-1 xui-id="10923" tvg-id="Claro Sp" tvg-name="D| Claro Sports Latinoamerica FHD" tvg-logo="http://ceoapps.org/logos/clarosports2.png" group-title="TV | Deportes",D| Claro Sports Latinoamerica FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOlQZL_NLtDBGA5IbLp2s24
+#EXTINF:-1 xui-id="2145662" tvg-id="depelicula.mx" tvg-name="P | De Pelicula Plus" tvg-logo="http://ceoapps.org/logos/depeliculahd.png" group-title="TV | Peliculas",P | De Pelicula Plus
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEZ1WDNn7w8X4a2pdbQFuic
+#EXTINF:-1 xui-id="200946" tvg-id="goldenpremier.mx" tvg-name="P | Golden Premier FHD" tvg-logo="http://ceoapps.org/logos/goldenpremier.png" group-title="TV | Peliculas",P | Golden Premier FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFKJltow4jKDamtX5uMyEjs
+#EXTINF:-1 xui-id="155179" tvg-id="universalchannel.mx" tvg-name="P | Universal TV FHD" tvg-logo="https://static.epg.best/ar/UniversalChannel.ar.png" group-title="TV | Peliculas",P | Universal TV FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFsDLvptuD94R3futrYpjMA
+#EXTINF:-1 xui-id="155177" tvg-id="tnt.mx" tvg-name="P | TNT FHD" tvg-logo="http://ceoapps.org/logos/tnt.png" group-title="TV | Peliculas",P | TNT FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFcyNRi_TYgHYIbVm46lryg
+#EXTINF:-1 xui-id="155175" tvg-id="usanetwork.mx" tvg-name="P | USA FHD" tvg-logo="http://ceoapps.org/logos/usa.png" group-title="TV | Peliculas",P | USA FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHaCgJOfCCtSlf83QvaM-ig
+#EXTINF:-1 xui-id="155174" tvg-id="studiouniversal.mx" tvg-name="P | Studio Universal FHD" tvg-logo="http://ceoapps.org/logos/studiouniversal.png" group-title="TV | Peliculas",P | Studio Universal FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPfCPK-0id1GAUxK-u6ovYM
+#EXTINF:-1 xui-id="155173" tvg-id="space.mx" tvg-name="P | Space | MX | FHD" tvg-logo="http://ceoapps.org/logos/space.png" group-title="TV | Peliculas",P | Space | MX | FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmB8Rs6ouoqrqdCvelZpSmTw
+#EXTINF:-1 xui-id="155172" tvg-id="paramountchannel.mx" tvg-name="P | Paramount Channel FHD" tvg-logo="http://ceoapps.org/logos/paramountchannel.png" group-title="TV | Peliculas",P | Paramount Channel FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDj2WrY3yjnEt9KuktivjiM
+#EXTINF:-1 xui-id="155170" tvg-id="hbosignature.mx" tvg-name="P | HBO Signature FHD" tvg-logo="https://static.epg.best/pa/HBOSignatureLatinAmerica.pa.png" group-title="TV | Peliculas",P | HBO Signature FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDXEAsM4xIk9sujSDCQfHuI
+#EXTINF:-1 xui-id="155168" tvg-id="hbopo.mx" tvg-name="P | HBO POP FHD" tvg-logo="http://ceoapps.org/logos/hbopop2.png" group-title="TV | Peliculas",P | HBO POP FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNcQl1jHYgopk9ZI3SV4VJM
+#EXTINF:-1 xui-id="155166" tvg-id="hbofamily.mx" tvg-name="P | HBO Family FHD" tvg-logo="https://static.epg.best/mx/HBOFamily.mx.png" group-title="TV | Peliculas",P | HBO Family FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAemxPAwaRwagbIXqUg_jU8
+#EXTINF:-1 xui-id="155165" tvg-id="hbo2.mx" tvg-name="P | HBO 2 FHD" tvg-logo="http://ceoapps.org/logos/hbo2.png" group-title="TV | Peliculas",P | HBO 2 FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH1NmGHlx2OqKwizsqK7XW8
+#EXTINF:-1 xui-id="154115" tvg-id="hboplus.mx" tvg-name="P | HBO + FHD" tvg-logo="https://static.epg.best/mx/HBOPlus.mx.png" group-title="TV | Peliculas",P | HBO + FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNFTatHMJyySLwxyofv98KQ
+#EXTINF:-1 xui-id="154113" tvg-id="hbo.mx" tvg-name="P | HBO MX FHD" tvg-logo="http://ceoapps.org/logos/hbo.png" group-title="TV | Peliculas",P | HBO MX FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEXgsfsai-QbxkUeRzeZ8zU
+#EXTINF:-1 xui-id="154112" tvg-id="goldenplus.mx" tvg-name="P | Golden Plus FHD" tvg-logo="http://ceoapps.org/logos/goldenplus.png" group-title="TV | Peliculas",P | Golden Plus FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmA7ynoZ7s72bNEYH2Z9s-l4
+#EXTINF:-1 xui-id="154086" tvg-id="cinemax.mx" tvg-name="P | Cinemax FHD" tvg-logo="http://ceoapps.org/logos/cinemax.png" group-title="TV | Peliculas",P | Cinemax FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmF5PRjc_GQAvAisoXY2n2X0
+#EXTINF:-1 xui-id="154085" tvg-id="cinecanal.mx" tvg-name="P | Cinecanal FHD" tvg-logo="http://ceoapps.org/logos/cinecanal.png" group-title="TV | Peliculas",P | Cinecanal FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJnb2E_g5HUGMb2VkaICtyc
+#EXTINF:-1 xui-id="153478" tvg-id="" tvg-name="P | DHE FHD" tvg-logo="http://ceoapps.org/logos/dhe.png" group-title="TV | Peliculas",P | DHE FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHcys4RANafnIV0O6LTduBI
+#EXTINF:-1 xui-id="154104" tvg-id="teleformula.mx" tvg-name="N | Teleformula FHD" tvg-logo="http://ceoapps.org/logos/teleformula.png" group-title="TV | Noticias",N | Teleformula FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPjhR8QwEM9ZtZbKmaQ5mJA
+#EXTINF:-1 xui-id="28615" tvg-id="RT.Esp" tvg-name="N | RT Noticias FHD" tvg-logo="http://atlantis-mx.com/channels/logos/69050564dc97f.png" group-title="TV | Noticias",N | RT Noticias FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCG9mo7foG5fAXShoybM_xo
+#EXTINF:-1 xui-id="10621" tvg-id="mileniotelevision.mx" tvg-name="N | Milenio Noticias FHD" tvg-logo="http://atlantis-mx.com/channels/logos/6904355507fe2.png" group-title="TV | Noticias",N | Milenio Noticias FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJKAOxMYi2GeVQ4N3TEaYp4
+#EXTINF:-1 xui-id="10616" tvg-id="forotv.mx" tvg-name="N | Foro TV FHD" tvg-logo="http://ceoapps.org/logos/forotv.png" group-title="TV | Noticias",N | Foro TV FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmF_R29wHjqO9UpPAbQ5tFfU
+#EXTINF:-1 xui-id="10607" tvg-id="bloombergtv.mx" tvg-name="N | Bloomberg FHD" tvg-logo="http://ceoapps.org/logos/bloomberg.png" group-title="TV | Noticias",N | Bloomberg FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFQZouhDYM_Ipu_Xf-7irXQ
+#EXTINF:-1 xui-id="10603" tvg-id="canaladn40.mx" tvg-name="N | ADN FHD" tvg-logo="https://tvazteca.brightspotcdn.com/58/74/8f13538947b7a5e8a0c8989612e1/adn-40-512x512-color-02.png" group-title="TV | Noticias",N | ADN FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCuR8CzjEN0HHzgcML6SOnw
+#EXTINF:-1 xui-id="2222157" tvg-id="" tvg-name="M | Azteca Internacional FHD" tvg-logo="https://mediaplan.com.gt/wp-content/uploads/2021/05/logotipo-azteca.png" group-title="TV | Mexico",M | Azteca Internacional FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAvU14poIEy2w5SOjuCogtY
+#EXTINF:-1 xui-id="2153486" tvg-id="" tvg-name="M | Las Estrellas -1 Hora" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV | Mexico",M | Las Estrellas -1 Hora
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKLmmjqW5lILOgmmkcYh4Zs
+#EXTINF:-1 xui-id="155188" tvg-id="" tvg-name="M | Multimedios Puebla" tvg-logo="http://ceoapps.org/logos/multimedios2.png" group-title="TV | Mexico",M | Multimedios Puebla
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFkK9JJm8so_cJmuulWUAPs
+#EXTINF:-1 xui-id="155181" tvg-id="" tvg-name="M | Imagen TV FHD" tvg-logo="http://ceoapps.org/logos/imagentelevision.png" group-title="TV | Mexico",M | Imagen TV FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOXZ_671AD72EpcFd2l55bE
+#EXTINF:-1 xui-id="154123" tvg-id="Azteca.7.(XHLAT).Nuevo.Laredo.MX.mx" tvg-name="M | Azteca 7 FHD" tvg-logo="http://ceoapps.org/logos/azteca7.png" group-title="TV | Mexico",M | Azteca 7 FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAJH1ylAL5gwKGn0ZcaS0IM
+#EXTINF:-1 xui-id="154117" tvg-id="Canal.a+.mx" tvg-name="M | A+ FHD" tvg-logo="http://ceoapps.org/logos/amas.png" group-title="TV | Mexico",M | A+ FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBsUpc_Zi4kkw8MtLiqcZ94
+#EXTINF:-1 xui-id="84527" tvg-id="Canal.11.de.México.mx" tvg-name="M | Canal Once FHD" tvg-logo="http://ceoapps.org/logos/canalonce.png" group-title="TV | Mexico",M | Canal Once FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmGGgy6Bg6Wxcwv1olI9IE50
+#EXTINF:-1 xui-id="75649" tvg-id="Canal.TV.Azteca.Corazón.mx" tvg-name="M | Azteca Corazon FHD" tvg-logo="http://ceoapps.org/logos/azcorazon.png" group-title="TV | Mexico",M | Azteca Corazon FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMoZ4gsUgJde7ZLDW5anf6g
+#EXTINF:-1 xui-id="27495" tvg-id="" tvg-name="M | Televisa Monterrey FHD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Monterrey FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmL_tvdR0P-XaLnqCwuyz7c8
+#EXTINF:-1 xui-id="27472" tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="M | Canal 5 FHD" tvg-logo="http://ceoapps.org/logos/canal5.png" group-title="TV | Mexico",M | Canal 5 FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNY4cpa8682mdm5p67HEVmo
+#EXTINF:-1 xui-id="27471" tvg-id="Canal.2.de.México.(Canal.Las.Estrellas.-.XEW).mx" tvg-name="M | Las Estrellas FHD" tvg-logo="http://ceoapps.org/logos/lasestrellas.png" group-title="TV | Mexico",M | Las Estrellas FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCmdCITMXaoxE_VSQxKAtak
+#EXTINF:-1 xui-id="10837" tvg-id="Canal.9.de.México.(XEQ-TDT).mx" tvg-name="M | Nu9ve FHD" tvg-logo="http://ceoapps.org/logos/nu9ve.png" group-title="TV | Mexico",M | Nu9ve FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH998iYplIVIwDQ1sIBISOw
+#EXTINF:-1 xui-id="10829" tvg-id="" tvg-name="M | TV MAS FHD" tvg-logo="http://ceoapps.org/logos/tvmas.png" group-title="TV | Mexico",M | TV MAS FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLqrZIf_RRd-HqRxcRMWLTo
+#EXTINF:-1 xui-id="10827" tvg-id="" tvg-name="M | Televisa (Leon) FHD" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa (Leon) FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmB5ne6yXIa2zKW5_o7Bg0Ig
+#EXTINF:-1 xui-id="10816" tvg-id="Canal.Azteca.Uno.mx" tvg-name="M | Azteca Uno FHD" tvg-logo="http://ceoapps.org/logos/tvazteca.png" group-title="TV | Mexico",M | Azteca Uno FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIdAl_EyEmiY3IfwHmi4vgI
+#EXTINF:-1 xui-id="2098827" tvg-id="" tvg-name="MS | VH1 FHD" tvg-logo="http://ceoapps.org/logos/vh1.png" group-title="TV | Musica",MS | VH1 FHD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEW6CeJpZD_M31eFdAPjUPM
+#EXTINF:-1 xui-id="2227009" tvg-id="" tvg-name="VIX | Deportes 9" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 9
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMe7sn-7Sc8ra1MweqenVRo
+#EXTINF:-1 xui-id="2227008" tvg-id="" tvg-name="VIX | Deportes 8" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 8
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKgVapemGcRwTC7pq7VO428
+#EXTINF:-1 xui-id="2227007" tvg-id="" tvg-name="VIX | Deportes 7" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 7
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKrmA7LlW4up4vprPoethGA
+#EXTINF:-1 xui-id="2227006" tvg-id="" tvg-name="VIX | Deportes 6" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 6
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFk-HIUMhd2Lj1UfIWF_DYs
+#EXTINF:-1 xui-id="2227005" tvg-id="" tvg-name="VIX | Deportes 5" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 5
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMd53Imgi6sMWl_cdiGmy18
+#EXTINF:-1 xui-id="2227004" tvg-id="" tvg-name="VIX | Deportes 4" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 4
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmA_JOZTYZXgn4upCt3ZHZPI
+#EXTINF:-1 xui-id="2227003" tvg-id="" tvg-name="VIX | Deportes 3" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 3
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDDcFd6d_aiU47e0c91fEko
+#EXTINF:-1 xui-id="2227002" tvg-id="" tvg-name="VIX | Deportes 2" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 2
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIYqUAb9JseDqpJPcI4EYfw
+#EXTINF:-1 xui-id="2227001" tvg-id="" tvg-name="VIX | Deportes 1" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 1
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPrWHEH0j2XTjSAtycHjs3o
+#EXTINF:-1 xui-id="2200833" tvg-id="" tvg-name="VIX Premium | La Que No Podia Amar" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | La Que No Podia Amar
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFYqqUhN-ZTZfzEUjSBjlLk
+#EXTINF:-1 xui-id="2200832" tvg-id="" tvg-name="VIX Premium | La Fea Mas Bella" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | La Fea Mas Bella
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOgb6e_TMor40ZQxsi_CmOE
+#EXTINF:-1 xui-id="2200831" tvg-id="" tvg-name="VIX Premium | Amor Real" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Amor Real
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMxC6clq3rOLDlYTOtc3bt8
+#EXTINF:-1 xui-id="2200830" tvg-id="" tvg-name="VIX Premium | Amor Bravio" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Amor Bravio
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNbtffP5dNrjtyktqQcMWes
+#EXTINF:-1 xui-id="2200829" tvg-id="" tvg-name="VIX Premium | Mi Corazon es Tuyo" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Mi Corazon es Tuyo
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmFas54Cico86kIMb2kmXiso
+#EXTINF:-1 xui-id="2200828" tvg-id="" tvg-name="VIX Premium | Teresa" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Teresa
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmDBf3IiRDcQYG2dwCxC36Qc
+#EXTINF:-1 xui-id="2200826" tvg-id="" tvg-name="VIX Premium | Triunfo del Amor" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Triunfo del Amor
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLGtd8csxPrfpdSF-JrXCl4
+#EXTINF:-1 xui-id="2200825" tvg-id="" tvg-name="VIX Premium | Rebelde" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Rebelde
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmPD-JWtKlGdvqbfary0s9u8
+#EXTINF:-1 xui-id="2200824" tvg-id="" tvg-name="VIX Premium | Nosotros Los Guapos" tvg-logo="http://ceoapps.org/logos/vixusa.png" group-title="TV | VIX Premium Mexico",VIX Premium | Nosotros Los Guapos
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOLQoTMQfcK3C8w2t70h4SM
+#EXTINF:-1 xui-id="2200807" tvg-id="" tvg-name="VIX Premium | La Rosa de Guadalupe" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | La Rosa de Guadalupe
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAUPRTr_Z9G-b82vDauBbic
+#EXTINF:-1 xui-id="2200806" tvg-id="" tvg-name="VIX Premium | Las 3 Marias" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Las 3 Marias
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmAzmPEIvI0bHR8mbBNPkbkA
+#EXTINF:-1 xui-id="2200805" tvg-id="" tvg-name="VIX Premium | Angelique" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Angelique
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCqOpS7OHxlPse29aoR6Hk8
+#EXTINF:-1 xui-id="2200804" tvg-id="" tvg-name="VIX Premium | Risa Picante" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Risa Picante
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMPL60gQACTsmBFsYVKPm_s
+#EXTINF:-1 xui-id="2200803" tvg-id="" tvg-name="VIX Premium | Canal 5" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Canal 5
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJzAySqPDpuy-bYutVqNE0s
+#EXTINF:-1 xui-id="2200802" tvg-id="" tvg-name="VIX Premium | Las Estrellas" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Las Estrellas
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJg3NMv4mAXeo_08dOGnwgA
+#EXTINF:-1 xui-id="2233013" tvg-id="" tvg-name="PPV | SKY SPORTS EVENTS 1" tvg-logo="http://ceoapps.org/logos/skysportseventos.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS EVENTS 1
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOcmndeai2lvuhBTTh0ISRE
+#EXTINF:-1 xui-id="2233014" tvg-id="" tvg-name="PPV | SKY SPORTS EVENTS 2" tvg-logo="http://ceoapps.org/logos/skysportseventos.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS EVENTS 2
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH60pK7XWRFTYx1XokOaJEY
+#EXTINF:-1 xui-id="2233015" tvg-id="" tvg-name="PPV | SKY SPORTS EVENTS 3" tvg-logo="http://ceoapps.org/logos/skysportseventos.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS EVENTS 3
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEKu7AR3dNwBkLwdRRXRGjE
+#EXTINF:-1 xui-id="2233016" tvg-id="" tvg-name="PPV | SKY SPORTS EVENTS 4" tvg-logo="http://ceoapps.org/logos/skysportseventos.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS EVENTS 4
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmLGByxTNQGsNhWetd1y25LQ
+#EXTINF:-1 xui-id="2233017" tvg-id="" tvg-name="PPV | SKY SPORTS EVENTS 5" tvg-logo="http://ceoapps.org/logos/skysportseventos.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS EVENTS 5
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmKO3-amJXjahKc9vQwDYbSA
+#EXTINF:-1 xui-id="2233018" tvg-id="" tvg-name="PPV | SKY SPORTS HD" tvg-logo="http://ceoapps.org/logos/skysportsmx.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS HD
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJGqQQt9hfxqWDdgz7GhL6k
+#EXTINF:-1 xui-id="2233019" tvg-id="" tvg-name="PPV | SKY SPORTS 24" tvg-logo="http://ceoapps.org/logos/skysportslaligamx.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS 24
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHqXZ3mYQEMo6qV0BNvQIv8
+#EXTINF:-1 xui-id="2233020" tvg-id="" tvg-name="PPV | SKY SPORTS BUNDESLIGA" tvg-logo="http://ceoapps.org/logos/skysportspremier.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS BUNDESLIGA
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmF7NM6Rl126ht455HhpVBu8
+#EXTINF:-1 xui-id="2233021" tvg-id="" tvg-name="PPV | SKY SPORTS BUNDESLIGA FEMENIL" tvg-logo="http://ceoapps.org/logos/skybundes.png" group-title="TV | PPV | SKY SPORTS MEX",PPV | SKY SPORTS BUNDESLIGA FEMENIL
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmBg72YTjkQ0UqvhCM8FsVPY
+#EXTINF:-1 xui-id="2233022" tvg-id="" tvg-name="M | Televisa Mexicali" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Mexicali
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOJHYmxlZkwHoKXxy1hgdTM
+#EXTINF:-1 xui-id="2234027" tvg-id="Canal.Azteca.Uno.-1.Hora.mx" tvg-name="MX | Azteca Uno -1hrs" tvg-logo="https://images.plex.tv/photo?size=medium-360&scale=1&url=https%3A%2F%2Fprovider-static.plex.tv%2Fepg%2Fcms%2Fproduction%2Fc712705e-033d-4ea7-8548-8a224d041302%2Funo-hora_artwork_horizontal-01_-_James_Stowerdx.jpg" group-title="TV | Mexico",MX | Azteca Uno -1hrs
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmCflklvRD_yEkYIZUKvE_wM
+#EXTINF:-1 xui-id="2234522" tvg-id="" tvg-name="D | Hi Sports" tvg-logo="http://ceoapps.org/logos/hisports.png" group-title="TV | Deportes",D | Hi Sports
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmC9js4jLbeYKabc_esukbPY
+#EXTINF:-1 xui-id="2236939" tvg-id="" tvg-name="MX | Canal 12 Iguala Guerrero" tvg-logo="https://canal12tv.com/wp-content/uploads/2023/08/cropped-canal-12-favicon.jpg" group-title="TV | Mexico",MX | Canal 12 Iguala Guerrero
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMKQA9uaZrlRQMKZ4SKPpBo
+#EXTINF:-1 xui-id="2238370" tvg-id="" tvg-name="24 /7 Los Años Maravillosos Op2" tvg-logo="http://ceoapps.org/logos/anosmaravillosos.png" group-title="TV | 24/7 Retro",24 /7 Los Años Maravillosos Op2
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMrDELqmoxrpuqMj9qjkYiQ
+#EXTINF:-1 xui-id="2157654" tvg-id="" tvg-name="E | Nuestro Cine MX" tvg-logo="http://ceoapps.org/logos/mxnuestrocine.png" group-title="TV | Entretenimiento",E | Nuestro Cine MX
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmADzCMuHyrYHlD6nWGArv1w
+#EXTINF:-1 xui-id="2383380" tvg-id="" tvg-name="VIX Premium | Lo que la vida me robo" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Lo que la vida me robo
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmMPhpiGyrOxmuvhMiffKNgM
+#EXTINF:-1 xui-id="2383381" tvg-id="" tvg-name="VIX Premium | 40 Y 20" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | 40 Y 20
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmD-Zd3cq7JYLuYYGx_vV_5E
+#EXTINF:-1 xui-id="2383382" tvg-id="" tvg-name="VIX Premium | Guerra de Chistes" tvg-logo="http://ceoapps.org/logos/vix.png" group-title="TV | VIX Premium Mexico",VIX Premium | Guerra de Chistes
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIkYElJhL1tVjAlcfuu1v6k
+#EXTINF:-1 xui-id="2549568" tvg-id="" tvg-name="M | TVP Culiacan" tvg-logo="http://ceoapps.org/logos/tvp.png" group-title="TV | Mexico",M | TVP Culiacan
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmE0WWzPyY2pP2lc2lXbXtMw
+#EXTINF:-1 xui-id="2549758" tvg-id="" tvg-name="VIX | Deportes 10" tvg-logo="http://ceoapps.org/logos/vixmexico.png" group-title="TV | PPV VIX Deportes Mexico",VIX | Deportes 10
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmHaj7jkNbl026HGheiVkh68
+#EXTINF:-1 xui-id="2556063" tvg-id="" tvg-name="P | Filmex" tvg-logo="https://i.imgur.com/D3dj4mv.png" group-title="TV | Peliculas",P | Filmex
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmOMoaddON65aKX98IYr6iXA
+#EXTINF:-1 xui-id="2556064" tvg-id="" tvg-name="P | Filmex Accion" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fmxac-2.png" group-title="TV | Peliculas",P | Filmex Accion
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmH7YLGAVgLQXxc9yN_vJ0VE
+#EXTINF:-1 xui-id="2556065" tvg-id="" tvg-name="P | Filmex Clasico" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fmx-cls-2.png" group-title="TV | Peliculas",P | Filmex Clasico
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmJho7f1ylISPJNNPf0KQRjA
+#EXTINF:-1 xui-id="2556066" tvg-id="" tvg-name="P | Filmex Comedia" tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-white/fmxcom-2.png" group-title="TV | Peliculas",P | Filmex Comedia
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmF-abu4ZIlFs95NBz7XstCE
+#EXTINF:-1 xui-id="2563794" tvg-id="" tvg-name="M | Canal del Congreso 2" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png" group-title="TV | Mexico",M | Canal del Congreso 2
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmIpjPLV6AyaWr0i70rFlYIk
+#EXTINF:-1 xui-id="2563795" tvg-id="" tvg-name="M | Canal del Congreso 3" tvg-logo="http://ceoapps.org/logos/canaldelcongreso.png" group-title="TV | Mexico",M | Canal del Congreso 3
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmE5EB1UkynfwmGd7Yoauh5w
+#EXTINF:-1 xui-id="2565182" tvg-id="" tvg-name="M | Televisa Matamoros" tvg-logo="http://ceoapps.org/logos/televisa.png" group-title="TV | Mexico",M | Televisa Matamoros
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmNqi23BAIvUcu-h9Zwj26Kw
+#EXTINF:-1 xui-id="2566222" tvg-id="" tvg-name="2 MB | History 2" tvg-logo="http://ceoapps.org/logos/h2.png" group-title="TV | 2 Megas",2 MB | History 2
+http://sdmx.vip:80/play/NcEc_7x92vLoyd-gGiikmEx8cC4ygA5wdVxvPcQEm5k
