@@ -1,5 +1,9 @@
 #EXTM3U	
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://akamai.sscdn.co/uploadfile/letras/playlists/1/e/a/0/1ea0241acc804697827af3195f09eae6.jpg",Minecraft
+https://ia800703.us.archive.org/24/items/m1n3-cr4fT/m1n3-cr4fT.mp4
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/u7wYZzjhBzhfS6QsvrjVKi7v0MO.jpg",Más allá de la Luna
 http://sdmx.vip:80/play/kxotZQEsGmndNOF39QXPIiaTSX0Tcw8u5b9KT1AcMBEAU7jYmMPcaj0XUFJusipA#.mp4
 
