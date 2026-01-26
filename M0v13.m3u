@@ -1,5 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A6S15iqfHpoit02leDfDVnpklys.jpg",La asistenta
+http://sdmx.vip:80/play/yjVqW0FQyXC00e0xKBZy1rnil4iLgoDlReGOPVI-K3KymfFuCtcX7iKCSI-oMjx0#.mkv
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/t9656f2KVPWbv6cUCW15Jni2YlK.jpg", Bob Esponja: Una aventura pirata
 http://sdmx.vip:80/play/yjVqW0FQyXC00e0xKBZy1pGqUk_2vM-xl31i_q3b2cvGrUz23vh8Gp1uI0wqYq2M#.mkv
