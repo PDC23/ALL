@@ -1,3 +1,9 @@
 #EXTM3U
 
+
 http://sdmx.vip/get.php?username=China02&password=china93&type=m3u_plus
+
+#EXTINF:-1 xui-id="2163076" tvg-id="forotv.mx" tvg-name="N | N+ Foro Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="TV | Noticias",N | N+ Foro Noticias
+http://sdmx.vip/live/China02/china93/2163076.ts
+
+
