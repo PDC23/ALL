@@ -1,8 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 xui-id="2163076" tvg-id="forotv.mx" tvg-name="N | N+ Foro Noticias" tvg-logo="https://pbs.twimg.com/profile_images/1834645317901320192/YOxivfL1_400x400.jpg" group-title="TV | Noticias",N | N+ Foro Noticias
-http://sdmx.vip/live/China02/china93/2163076.ts
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM3ZWM1NmUtNTEzMC00Y2JiLTk4OWEtMDI3NDMxYzJmMDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Madagascar: Escape 2 Africa
+http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/435435.mp4
 
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://diamondfilms.com/img/poster/69090e4cb32c18947c71b1451.jpg",El Día Del Fin Del Mundo: Migración
-http://sdmx.vip/movie/China02/china93/2574859.mkv
+
