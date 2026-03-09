@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.aceprensa.com/wp-content/uploads/2025/10/Parecido-a-un-asesinato.jpg",Parecido a un asesinato
+http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/750234.mkv
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img2.acsta.net/img/ea/21/ea21c83662616a37bbf7b91087c04013.jpg",Sin Piedad
 http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/747231.mkv
 
