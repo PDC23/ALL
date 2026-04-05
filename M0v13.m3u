@@ -1,6 +1,11 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/c_310_420/img/66/a2/66a2e1cd3bdf8978aefac262f3d5a0cb.png",Super Mario Galaxy (2026)
+http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/763135.mkv
+
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://cineycine.com/wp-content/uploads/2026/03/maquina-de-guerra-poster.jpg",Máquina de Guerra (2026)
 http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/754205.mkv
 
