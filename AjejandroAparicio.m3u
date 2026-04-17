@@ -1,5 +1,11 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/79EVB4qhyfrdlMgT8GIRAikdzsQ.jpg",Super Mario Galaxy la película (2026)
+http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/764840.mkv
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/2QLrz08csUMdXZYWIxMWNaKCwP5.jpg",Volver al Futuro 3 (1990)
+http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/491401.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://proyectorfantasma.com.ar/wp-content/uploads/2014/08/PORTADA-volver-al-futuro-II.jpg",Volver al futuro II
 http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/5619.mp4
 
