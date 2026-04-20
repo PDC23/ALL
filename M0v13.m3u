@@ -1,5 +1,10 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/d9i9EZHpjwqAP9byTJDAuXgSdZP.jpg",La Celda de los Milagros (2025)
+http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/746511.mkv
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/4Z0E1W7YvQ0aVtgj7KKtktb9ukd.jpg",Hoppers (2026)
 http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/760504.mkv
 
