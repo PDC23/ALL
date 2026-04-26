@@ -1,15 +1,4 @@
 #EXTM3U	
 
-#EXTINF:-1 group-title="|FUTBOL|" tvg-logo="https://media.ambito.com/p/0178112c7d0bf03159ca515578fd94d2/adjuntos/360/imagenes/042/450/0042450229/liga-mxwebp.png",Toluca vs León Opc1
-http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/196751.ts
-
-
-#EXTINF:-1 group-title="|FUTBOL|" tvg-logo="https://media.ambito.com/p/0178112c7d0bf03159ca515578fd94d2/adjuntos/360/imagenes/042/450/0042450229/liga-mxwebp.png",Toluca vs León Opc2
-http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/87571.ts
-
-
-#EXTINF:-1 group-title="|FUTBOL|" tvg-logo="https://media.ambito.com/p/0178112c7d0bf03159ca515578fd94d2/adjuntos/360/imagenes/042/450/0042450229/liga-mxwebp.png",Toluca vs León Opc3
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/595921.ts
-
-
-
+#EXTINF:-1 group-title="|SUSCRIPTOR|" tvg-logo="https://matystore.phoenixdreams.company/wp-content/uploads/2020/12/Phoenix%C2%B4Dreams_TV.png",Fecha de pago
+https://ia600801.us.archive.org/32/items/f-3ch-4-p-4g-0/F3ch4_P4g0.mp4
