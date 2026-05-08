@@ -1,6 +1,9 @@
 #EXTM3U
 
-EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.aceprensa.com/wp-content/uploads/2021/04/Otra-ronda.jpg",Otra ronda (2020)
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.dcine.org/sites/default/files/carteles/melody-esp.jpg",Melody (1971)
+https://i.pinimg.com/736x/93/5e/20/935e207895e976320cedf7813523f9d7.jpg
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.aceprensa.com/wp-content/uploads/2021/04/Otra-ronda.jpg",Otra ronda (2020)
 https://ia601601.us.archive.org/3/items/0tr-4-r-0nd-4/0tr4-r0nd4.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://cineycine.com/wp-content/uploads/2026/03/maquina-de-guerra-poster.jpg",Máquina de Guerra (2026)
