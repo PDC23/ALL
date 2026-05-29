@@ -1,6 +1,12 @@
 #EXTM3U
 
 
+
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2QxNGU0MDEtYjQ2My00ODNmLTg0MzktMzRmNWE4ZDgwZmY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Socias por Accidente (2026) 
+http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/776961.mkv
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/Jack_Ryan_de_Tom_Clancy_Guerra_encubierta-689150947-large.jpg",Jack Ryan: Guerra Encubierta (2026)
 http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/778443.mkv
 
