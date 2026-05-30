@@ -1,6 +1,14 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2QxNGU0MDEtYjQ2My00ODNmLTg0MzktMzRmNWE4ZDgwZmY0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Socias por Accidente (2026) 
+http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/776961.mkv
+
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mV7uFS1U8iP0p4CcXZp4znBVpch.jpg",Apex (Depredador dominante) (2026)
+http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/770919.mkv
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/dJqv61OB3jsdUEOJTaOGZ64ZLeD.jpg",Jack Ryan de Tom Clancy: Guerra Encubierta (2026)
 http://totalplay.site:80/movie/Cruzeirolabon/yaUk46y4uj/778443.mkv
 
