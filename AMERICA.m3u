@@ -1,9 +1,5 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
 
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX ONE 1" tvg-logo="https://i.postimg.cc/vBjR09Gv/bigwp-FOXOne-Logo-948x594-removebg-preview.png" group-title="MEXICO",FOX ONE 1
-http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/755482.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="FOX ONE 1" tvg-logo="https://i.postimg.cc/vBjR09Gv/bigwp-FOXOne-Logo-948x594-removebg-preview.png" group-title="MEXICO",FOX ONE 1 OPC2
-http://totalplay.site:80/Cruzeirolabon/yaUk46y4uj/780923.m3u8
+#EXTINF:-1 group-title="|SUSCRIPTOR|" tvg-logo="https://matystore.phoenixdreams.company/wp-content/uploads/2020/12/Phoenix%C2%B4Dreams_TV.png",Fecha de pago
+https://ia600801.us.archive.org/32/items/f-3ch-4-p-4g-0/F3ch4_P4g0.mp4
