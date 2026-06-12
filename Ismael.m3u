@@ -1,11 +1,16 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 HD Opc1  
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 DIRECTV HD Opc1  
 http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/211278.ts
 
-
-#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 FHD Opc2  
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 DIRECTV FHD Opc2  
 http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/211277.ts
 
-#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 FHD Opc3  
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 DIRECTV 2 FHD Opc3  
+http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/211281.ts
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 FHD Opc4  
 http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/211245.ts
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 ESPN FHD Opc5  
+http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/211282.ts
