@@ -8,3 +8,6 @@ http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213182.ts
 
 #EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.3 DS+
 http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213187.ts
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.3 TyC Sports
+http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213196.ts
