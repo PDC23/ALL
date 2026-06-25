@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.1 DS
-http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213179.ts
+http://aioplus.es:80/live/33621LT1/33621LT1/822102.ts
 
 #EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.2 DS2
-http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213182.ts
+http://aioplus.es:80/live/33621LT1/33621LT1/822100.ts
 
 #EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.3 DS+
-http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213187.ts
+http://aioplus.es:80/live/33621LT1/33621LT1/822098.ts
 
 #EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.3 TyC Sports
 http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/213196.ts
