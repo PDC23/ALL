@@ -1,8 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pbs.twimg.com/media/G3WbbiCaYAA7fBE.jpg",Backrooms
-http://xstr.cyou/movie/JARED34/675GTd/881698.mkv
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/img/cc/ea/cceae32e07b6af3b99b70d21021e3d21.jpg",Backrooms
+http://aioplus.es:80/movie/33621LT1/33621LT1/881698.mkv
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/img/cc/ea/cceae32e07b6af3b99b70d21021e3d21.jpg",Caminos del crimen
+http://aioplus.es:80/movie/33621LT1/33621LT1/881706.mkv
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/img/cc/ea/cceae32e07b6af3b99b70d21021e3d21.jpg",HE-MAN
