@@ -1,15 +1,16 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 HD Op.2 DS
+http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
 
-#EXTINF:-1 group-title="|FUTBOL|" tvg-logo="https://i.pinimg.com/736x/00/83/59/008359e8913cfd5fb3cc8f374a823efe.jpg", Frustrazul
-http://domestipo1.online:80/Luisd7788$/v7kKThHW7d/777159.ts
+
+
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDM3ZWM1NmUtNTEzMC00Y2JiLTk4OWEtMDI3NDMxYzJmMDIxXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",Madagascar: Escape 2 Africa
 http://domestipo1.online:80/movie/Luisd7788$/v7kKThHW7d/435435.mp4
 
 
-#EXTM3U
 
 
 MX
