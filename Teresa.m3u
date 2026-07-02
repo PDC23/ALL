@@ -1,6 +1,23 @@
 #EXTM3U
 
 
+Mundial 2026
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 SD Op.1 HD
+http://elpapanatas.space:8080/live/eder7378/8388eder/253431.ts
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 SD Op.2 HD
+http://aioplus.es:80/live/33621LT1/33621LT1/830867.ts
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 HD Op.3 DS
+http://aioplus.es:80/live/33621LT1/33621LT1/830868.ts
+
+#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Mundial 2026 Op.4 DS2
+http://aioplus.es:80/live/33621LT1/33621LT1/830869.ts
+
+
+
+Peliculas
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://peliculas.lavanguardia.com/imagenes/w500/2bcSSmsAKCGlZPVzDcl6xFhD1IU.jpg",Sólo dios sabe (2006)
 https://ia600706.us.archive.org/33/items/50lod-3u-5s-4b-3/50lod3u5s4b3.mp4
@@ -19,7 +36,7 @@ https://ia902904.us.archive.org/29/items/th3l0v3_w1tch/th3l0v3_w1tch.mp4
 
 
 
-
+Series
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BZmQ1NTIyNTgtNDE2Ni00YjJhLTg4YzAtMzNhZDJjYmY2MTg1XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg",TAKEN Ep.1
 https://ia601806.us.archive.org/34/items/taken.-2002.-ep-09-subt/Taken.2002.Ep01%20subt.mp4
