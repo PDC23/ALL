@@ -1,11 +1,12 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|MUNDIAL|" tvg-logo="https://tntsports.cl/__export/1783629506272/sites/cdfchile/img/2026/07/09/ufc_329_conor_mcgregor_max_holloway_las_vegas_polideportivo_artes_marciales_mixtas.png_1899857922.png",UFC Conor McGregor vs. Max Holloway
-http://tv.zeuspro.xyz:2052/live/hsarria/fccb81ea5c2f/214772.ts
 
 
-#EXTINF:-1 group-title="|TV|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Foro TV 
+EXTINF:-1 group-title="|TV|" tvg-logo="https://cloudfront-us-east-1.images.arcpublishing.com/elfinanciero/6SDLX7VLJ5AHJCETI4B43SGRYI.jpg",Foro TV 
 http://aioplus.es:80/live/33621LT1/33621LT1/822987.ts
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://cdn.colombia.com/cine/2026/5/minions-monstruos-47425-1.jpg",
+http://miotv.cc:8080/movie/Pepe/1234/445124.mp4
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://cdn.colombia.com/cine/2026/5/minions-monstruos-47425-1.jpg",Minions & Monstuos
