@@ -1,6 +1,15 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://i.blogs.es/d2f31e/supergirl/500_333.jpeg",Supergirl
+http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15250.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c1/Moana_%282026_film%29_poster.jpg",Moana
+http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15251.mp4
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/M/MV5BZTI4YzAxNjUtM2ZhZS00MmFkLWI1YTYtZGViNWM5MzA1NDQxXkEyXkFqcGc@._V1_.jpg",Hoppers
+http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15033.mkv
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://pbs.twimg.com/media/G3WbbiCaYAA7fBE.jpg",Toy Story 5
 http://iptv.tecnohn.com:25461/movie/Carlos_Roberto_Vasquez/tecnored21/15121.mp4
 
