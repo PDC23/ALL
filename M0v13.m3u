@@ -1,5 +1,11 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/odyssey/posters/02.jpg",Posesión infernal:
+http://miotv.cc:8080/movie/Pepe/1234/449246.mp4
+
+
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/img/56/f6/56f6cf9b4ed6b5b0bba3a293f8edc440.jpg",Posesión infernal: En llamas 
 https://sdmx.vip:443/movie/alfredolozanou@hotmail.com/h9R6bNXXLh/2769741.mp4
 
