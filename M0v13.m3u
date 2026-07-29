@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/odyssey/posters/02.jpg",Posesión infernal:
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/odyssey/posters/02.jpg",La odisea 
 http://miotv.cc:8080/movie/Pepe/1234/449246.mp4
 
 
