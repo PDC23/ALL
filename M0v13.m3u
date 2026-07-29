@@ -4,6 +4,9 @@
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.universalpictures.com.mx/tl_files/content/movies/odyssey/posters/02.jpg",La odisea 
 http://miotv.cc:8080/movie/Pepe/1234/449246.mp4
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://pics.filmaffinity.com/the_rip-920255282-large.jpg",El botín
+http://miotv.cc:8080/movie/Pepe/1234/447297.mp4
+
 
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://es.web.img3.acsta.net/img/56/f6/56f6cf9b4ed6b5b0bba3a293f8edc440.jpg",Posesión infernal: En llamas 
