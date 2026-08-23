@@ -1,8 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://tickets-static-content.cinepolis.com/pimcore/20963/assets/Mexico/Tickets/Movies/LaNocheDelDemonioEstanEntreNosotros/Es/INS_720x1022_2/resource.jpg",En la zona gris
+https://sdmx.vip:443/movie/alfredolozanou@hotmail.com/h9R6bNXXLh/2773052.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://www.drivecinema.mx/wp-content/uploads/2026/08/finalOAK_drivecinema.png",El final de la Calle Oak
 http://myultratv.com:8080/movie/wthzdiigcm/shqhbgptpg/285025.mp4
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/9158dde5eafc93a7a88d3a27ce15873f979d2ac8e1259955f8c01d26487228dd.jpg",En la zona gris
+https://sdmx.vip:443/movie/alfredolozanou@hotmail.com/h9R6bNXXLh/2769295.mp4
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://reggiestake.com/wp-content/uploads/2026/04/spider-man-brand-new-day-fan-poster-5.jpg",Spider-Man: Brand New Day
 http://elpapanatas.space:8080/movie/eder7378/8388eder/514027.mkv
