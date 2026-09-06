@@ -1,4 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|VIP|" tvg-logo="https://ih1.redbubble.net/image.4651934777.8867/st,small,507x507-pad,600x600,f8f8f8.jpg", AGULAS DEL AMERICA
+
+#EXTINF:-1 group-title="|VIP|" tvg-logo="https://ideasfrescas.wordpress.com/wp-content/uploads/2009/05/c381guilasdelamc3a9rica7clogo.png", AGULAS DEL AMERICA
 http://latinotvplus.online:8080/live/JR20245044XXZ/fbYqFJE86nFzF/1718407.ts
