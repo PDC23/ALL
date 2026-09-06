@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://mx.web.img2.acsta.net/img/5c/a5/5ca5dbb69b6f93b055fe53f5544064d9.jpg", COYOTE VS ACME
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://tickets-static-content.cinepolis.com/pimcore/20963/assets/Mexico/Tickets/Movies/LaNocheDelDemonioEstanEntreNosotros/Es/INS_720x1022_2/resource.jpg", La noche del demonio
 http://avefenixtv.com:8080/movie/DiegoCaicedo8k9f/rwR6RNQn6Q/1713619.mkv
 
 
