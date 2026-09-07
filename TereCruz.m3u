@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://tickets-static-content.cinepolis.com/pimcore/20963/assets/Mexico/Tickets/Movies/LaNocheDelDemonioEstanEntreNosotros/Es/INS_720x1022_2/resource.jpg", Coyote vs ACME
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://cdn.cinemark.cl/content/posters/HO00015360.jpg", Coyote vs ACME
 http://avefenixtv.com:8080/movie/DiegoCaicedo8k9f/rwR6RNQn6Q/1715619.mkv
 
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://reggiestake.com/wp-content/uploads/2026/04/spider-man-brand-new-day-fan-poster-5.jpg", Spiderman
