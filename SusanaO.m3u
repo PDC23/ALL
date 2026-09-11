@@ -1,2 +1,7 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://tickets-static-content.cinepolis.com/pimcore/20963/assets/Mexico/Tickets/Movies/LaNocheDelDemonioEstanEntreNosotros/Es/INS_720x1022_2/resource.jpg", La noche del demonio
+http://avefenixtv.com:8080/movie/DiegoCaicedo8k9f/rwR6RNQn6Q/1713619.mkv
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://mx.web.img2.acsta.net/img/ab/fe/abfe3612073d99292de0b0df7dae6fa7.jpg", El final de la calle Oak
+http://sdmx.vip/movie/Gustavo2026/Gustavo2026/2772672.mp4
