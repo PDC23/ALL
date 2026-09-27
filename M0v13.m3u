@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://images.justwatch.com/poster/348171183/s718/la-captura-2026.jpg",La Captura
+http://sdmx.vip/movie/Gustavo2026/Gustavo2026/2772946.mp4
+
 #EXTINF:-1 group-title="|CINE|" tvg-logo="https://tickets-static-content.cinepolis.com/pimcore/20963/assets/Mexico/Tickets/Movies/LaNocheDelDemonioEstanEntreNosotros/Es/INS_720x1022_2/resource.jpg",La Noche Del Demonio: Están Entre Nosotros
 https://sdmx.vip:443/movie/alfredolozanou@hotmail.com/h9R6bNXXLh/2773052.mp4
 
