@@ -1,0 +1,4 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="|CINE|" tvg-logo="https://imagenes.excelsior.com.mx/files/main_image_375_249/uploads/2026/11/06/6aee86ef067a2.jpeg",FOX ONE
+http://infinitavision.online:8080/live/leocoronadoo/P86EACfjVZ/755482.ts
