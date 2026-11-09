@@ -1,7 +1,3 @@
 #EXTM3U
-
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://imagenes.excelsior.com.mx/files/main_image_375_249/uploads/2026/11/06/6aee86ef067a2.jpeg",FOX ONE
-http://infinitavision.online:8080/live/leocoronadoo/P86EACfjVZ/755482.ts
-
-#EXTINF:-1 group-title="|CINE|" tvg-logo="https://imagenes.excelsior.com.mx/files/main_image_375_249/uploads/2026/11/06/6aee86ef067a2.jpeg",CHIVAS
-http://infinitavision.online:8080/live/leocoronadoo/P86EACfjVZ/1738727.ts
+#EXTINF:-1 group-title="|SUSCRIPTOR|" tvg-logo="https://matystore.phoenixdreams.company/wp-content/uploads/2020/12/Phoenix%C2%B4Dreams_TV.png",Fecha de pago
+https://ia600801.us.archive.org/32/items/f-3ch-4-p-4g-0/F3ch4_P4g0.mp4
